@@ -1,0 +1,1101 @@
+CodingHours,CoffeeCupsPerDay,CoffeeTime,CodingWithoutCoffee,CoffeeType,CoffeeSolveBugs,Gender,Country,AgeRange
+8,2,Before coding,Yes,Caffè latte,Sometimes,Female,Lebanon,18 to 29
+3,2,Before coding,Yes,Americano,Yes,Female,Lebanon,30 to 39
+5,3,While coding,No,Nescafe,Yes,Female,Lebanon,18 to 29
+8,2,Before coding,No,Nescafe,Yes,Male,Lebanon,18 to 29
+10,3,While coding,Sometimes,Turkish,No,Male,Lebanon,18 to 29
+8,2,While coding,Sometimes,Nescafe,Yes,Male,Lebanon,30 to 39
+5,2,While coding,Yes,Nescafe,Sometimes,Male,Lebanon,18 to 29
+10,4,Before coding,Sometimes,Turkish,Sometimes,Male,Lebanon,18 to 29
+10,2,While coding,Yes,American Coffee,Sometimes,Male,Lebanon,30 to 39
+10,2,While coding,Yes,Nescafe,No,Male,Lebanon,30 to 39
+10,3,While coding,Sometimes,American Coffee,Sometimes,Male,Lebanon,30 to 39
+2,3,Before coding,Sometimes,Turkish,Yes,Male,Lebanon,30 to 39
+8,2,Before and while coding,No,Nescafe,Yes,Male,Lebanon,30 to 39
+9,3,While coding,Sometimes,Nescafe,Yes,Male,Lebanon,30 to 39
+6,1,Before coding,Yes,Nescafe,Sometimes,Male,Lebanon,18 to 29
+6,3,While coding,No,Americano,Yes,Female,Lebanon,30 to 39
+10,3,While coding,Sometimes,American Coffee,Sometimes,Male,Lebanon,30 to 39
+6,4,While coding,Yes,Turkish,Sometimes,Male,Lebanon,30 to 39
+8,3,While coding,No,Nescafe,No,Male,Lebanon,18 to 29
+3,1,In the morning,Yes,Nescafe,Sometimes,Female,Lebanon,30 to 39
+3,3,While coding,Yes,Espresso (Short Black),Sometimes,Male,Lebanon,18 to 29
+9,5,While coding,Sometimes,Nescafe,Yes,Male,Lebanon,18 to 29
+4,2,While coding,Sometimes,American Coffee,Sometimes,Male,Lebanon,18 to 29
+8,3,While coding,No,Turkish,No,Male,Lebanon,40 to 49
+5,3,While coding,Sometimes,Cappuccino,Sometimes,Male,Lebanon,Under 18
+6,3,While coding,Yes,Nescafe,No,Female,Lebanon,30 to 39
+7,4,Before coding,Sometimes,Espresso (Short Black),No,Male,Lebanon,30 to 39
+8,4,While coding,Sometimes,Turkish,Yes,Male,Lebanon,30 to 39
+7,1,Before coding,Yes,Nescafe,Yes,Male,Lebanon,30 to 39
+2,2,While coding,Sometimes,American Coffee,Sometimes,Male,Lebanon,40 to 49
+10,6,All the time,No,American Coffee,Yes,Male,Lebanon,30 to 39
+2,2,While coding,No,Nescafe,Sometimes,Female,Lebanon,18 to 29
+9,2,Before coding,Sometimes,Nescafe,Sometimes,Female,Lebanon,18 to 29
+4,1,Before coding,Yes,Nescafe,No,Male,Lebanon,30 to 39
+6,2,While coding,Sometimes,Espresso (Short Black),Sometimes,Male,Lebanon,18 to 29
+2,2,While coding,Yes,American Coffee,No,Male,Lebanon,30 to 39
+2,3,All the time,Sometimes,Turkish,Sometimes,Male,Lebanon,30 to 39
+7,7,After coding,Yes,Turkish,Yes,Female,Lebanon,40 to 49
+1,1,While coding,Yes,Cappuccino,Yes,Male,Lebanon,40 to 49
+4,2,While coding,Yes,Turkish,No,Male,Lebanon,50 to 59
+8,2,While coding,Sometimes,Turkish,No,Male,Lebanon,30 to 39
+8,4,While coding,Sometimes,Turkish,Yes,Male,Lebanon,30 to 39
+3,2,While coding,Sometimes,American Coffee,Sometimes,Female,Lebanon,30 to 39
+10,6,While coding,Sometimes,Nescafe,No,Male,Lebanon,18 to 29
+3,2,After coding,Yes,Espresso (Short Black),Sometimes,Male,Lebanon,40 to 49
+7,2,While coding,Sometimes,American Coffee,No,Female,Lebanon,18 to 29
+2,1,While coding,Sometimes,Caffè latte,No,Female,Lebanon,18 to 29
+9,1,In the morning,Yes,Nescafe,No,Female,Lebanon,18 to 29
+8,2,Before coding,No,Nescafe,No,Female,Lebanon,18 to 29
+6,1,Before coding,Yes,Nescafe,No,Male,Lebanon,30 to 39
+6,1,Before coding,Yes,Nescafe,No,Male,Lebanon,30 to 39
+8,3,While coding,Sometimes,American Coffee,Yes,Male,Lebanon,18 to 29
+8,2,Before coding,Sometimes,American Coffee,Yes,Male,Lebanon,18 to 29
+3,3,While coding,No,Turkish,No,Male,Lebanon,18 to 29
+7,4,No specific time,Yes,Cappuccino,Sometimes,Male,Lebanon,18 to 29
+4,7,Before and while coding,No,Double Espresso (Doppio),Sometimes,Male,Lebanon,18 to 29
+6,4,While coding,Sometimes,Espresso (Short Black),Sometimes,Male,Lebanon,18 to 29
+10,8,While coding,No,Turkish,Sometimes,Male,Lebanon,18 to 29
+8,2,While coding,Sometimes,Turkish,No,Male,Lebanon,18 to 29
+2,4,While coding,Sometimes,Cappuccino,Sometimes,Male,Lebanon,40 to 49
+6,2,Before coding,Yes,Caffè latte,No,Male,Lebanon,18 to 29
+7,4,While coding,No,American Coffee,Sometimes,Male,Lebanon,18 to 29
+8,2,While coding,Sometimes,Turkish,Sometimes,Male,Lebanon,18 to 29
+7,4,Before coding,No,Turkish,Yes,Male,Lebanon,18 to 29
+8,4,While coding,No,American Coffee,Sometimes,Male,Lebanon,18 to 29
+8,2,Before coding,Sometimes,American Coffee,Sometimes,Female,Lebanon,18 to 29
+6,1,In the morning,Yes,Nescafe,No,Female,Lebanon,30 to 39
+10,2,While coding,Sometimes,American Coffee,Yes,Male,Lebanon,18 to 29
+8,4,Before and while coding,No,Turkish,Yes,Male,Lebanon,18 to 29
+10,6,While coding,Sometimes,Double Espresso (Doppio),No,Male,Lebanon,30 to 39
+6,4,While coding,Sometimes,Espresso (Short Black),Yes,Male,Lebanon,18 to 29
+10,8,All the time,No,American Coffee,Yes,Male,Lebanon,18 to 29
+5,5,While coding,Sometimes,American Coffee,Yes,Male,Lebanon,18 to 29
+8,4,Before and while coding,Sometimes,Turkish,Sometimes,Male,Lebanon,30 to 39
+4,2,While coding,No,Nescafe,Yes,Female,Lebanon,18 to 29
+6,6,While coding,Sometimes,Cappuccino,No,Male,Lebanon,18 to 29
+8,2,While coding,Sometimes,Nescafe,Sometimes,Male,Lebanon,30 to 39
+9,3,While coding,Sometimes,Nescafe,Sometimes,Female,Lebanon,18 to 29
+7,2,While coding,Sometimes,Caffè latte,No,Male,Lebanon,18 to 29
+4,5,While coding,Sometimes,American Coffee,Yes,Male,Lebanon,18 to 29
+2,1,While coding,Yes,Nescafe,No,Male,Lebanon,18 to 29
+7,3,While coding,Sometimes,American Coffee,Sometimes,Female,Lebanon,18 to 29
+6,3,While coding,Yes,Nescafe,Yes,Female,Lebanon,18 to 29
+3,3,While coding,Sometimes,Caffè latte,Sometimes,Male,Lebanon,18 to 29
+10,2,While coding,Yes,American Coffee,No,Male,Lebanon,18 to 29
+10,3,While coding,Sometimes,American Coffee,Sometimes,Male,Lebanon,18 to 29
+3,1,While coding,Sometimes,Nescafe,Sometimes,Male,Lebanon,18 to 29
+3,3,While coding,Sometimes,American Coffee,Sometimes,Female,Lebanon,18 to 29
+9,7,All the time,No,Espresso (Short Black),Yes,Male,Lebanon,18 to 29
+10,1,Before coding,Sometimes,American Coffee,Sometimes,Male,Lebanon,18 to 29
+7,1,Before coding,Sometimes,Cappuccino,Sometimes,Male,Lebanon,18 to 29
+5,3,While coding,Sometimes,Turkish,Sometimes,Female,Lebanon,18 to 29
+5,2,Before coding,Sometimes,Nescafe,Yes,Female,Lebanon,18 to 29
+3,1,Before coding,Yes,Nescafe,No,Female,Lebanon,18 to 29
+4,2,While coding,Yes,Nescafe,Sometimes,Male,Lebanon,18 to 29
+6,2,Before coding,Yes,Nescafe,Yes,Male,Lebanon,18 to 29
+4,1,Before coding,Sometimes,Nescafe,Sometimes,Female,Lebanon,18 to 29
+10,3,Before coding,Yes,Cappuccino,Yes,Male,Lebanon,Under 18
+2,2,While coding,Sometimes,Espresso (Short Black),Sometimes,Female,Lebanon,18 to 29
+10,4,Before coding,Sometimes,Double Espresso (Doppio),Sometimes,Male,Lebanon,18 to 29
+2,3,While coding,Yes,Cappuccino,No,Male,Lebanon,18 to 29
+4,6,While coding,Yes,Nescafe,Sometimes,Female,Jordan,30 to 39
+10,6,While coding,Sometimes,Caffè latte,No,Male,Syria,18 to 29
+10,6,Before coding,Yes,Cappuccino,Sometimes,Male,Egypt,40 to 49
+4,7,While coding,Sometimes,Caffè latte,No,Female,Egypt,Under 18
+10,5,While coding,Sometimes,American Coffee,No,Female,Egypt,18 to 29
+9,6,While coding,Sometimes,Turkish,Sometimes,Male,Egypt,18 to 29
+8,5,Before coding,Sometimes,Cappuccino,Yes,Male,Jordan,50 to 59
+8,2,Before coding,Sometimes,American Coffee,Yes,Male,Jordan,18 to 29
+6,1,Before coding,Yes,Americano,Yes,Male,Syria,30 to 39
+10,8,While coding,No,Turkish,No,Male,Jordan,18 to 29
+10,8,All the time,Yes,Turkish,No,Female,Jordan,18 to 29
+3,8,Before coding,Sometimes,Nescafe,Sometimes,Female,Egypt,18 to 29
+3,4,While coding,Yes,Nescafe,Yes,Male,Egypt,18 to 29
+6,1,Before coding,No,Turkish,No,Male,Jordan,30 to 39
+7,1,Before coding,Sometimes,Nescafe,No,Male,Egypt,30 to 39
+7,6,While coding,Yes,Nescafe,Yes,Male,Jordan,40 to 49
+10,2,Before coding,No,Nescafe,Sometimes,Male,Jordan,18 to 29
+4,6,While coding,Sometimes,American Coffee,Yes,Male,Syria,30 to 39
+10,5,While coding,Yes,Nescafe,No,Female,Egypt,40 to 49
+4,2,No specific time,Sometimes,Caffè latte,Yes,Male,Syria,18 to 29
+3,2,While coding,Sometimes,American Coffee,Yes,Female,Syria,18 to 29
+4,5,After coding,Yes,Turkish,Yes,Female,Syria,30 to 39
+8,5,Before coding,No,Double Espresso (Doppio),No,Male,Egypt,18 to 29
+2,5,While coding,Sometimes,Espresso (Short Black),Yes,Male,Syria,30 to 39
+8,7,Before coding,Sometimes,American Coffee,Sometimes,Male,Jordan,18 to 29
+10,5,While coding,No,Turkish,Sometimes,Male,Jordan,18 to 29
+6,6,Before coding,No,American Coffee,Sometimes,Male,Egypt,30 to 39
+3,7,While coding,No,Nescafe,No,Male,Egypt,18 to 29
+4,7,Before coding,No,American Coffee,Sometimes,Male,Egypt,18 to 29
+2,2,While coding,Sometimes,Double Espresso (Doppio),Yes,Male,Jordan,18 to 29
+6,5,Before coding,No,Espresso (Short Black),No,Male,Jordan,18 to 29
+2,6,While coding,No,Caffè latte,Sometimes,Female,Syria,Under 18
+10,8,Before coding,Sometimes,American Coffee,No,Female,Syria,18 to 29
+9,5,While coding,Yes,American Coffee,No,Male,Syria,18 to 29
+10,7,While coding,Sometimes,Nescafe,No,Male,Syria,30 to 39
+6,3,Before coding,Sometimes,American Coffee,Sometimes,Male,Syria,40 to 49
+6,1,While coding,Yes,American Coffee,Sometimes,Male,Lebanon,18 to 29
+6,4,Before coding,Yes,Nescafe,Yes,Male,Lebanon,18 to 29
+8,3,While coding,Yes,Cappuccino,No,Male,Jordan,Under 18
+10,8,While coding,Yes,Nescafe,No,Male,Egypt,18 to 29
+7,4,While coding,Sometimes,Turkish,Yes,Female,Jordan,18 to 29
+6,2,While coding,Yes,Nescafe,Sometimes,Male,Syria,18 to 29
+8,1,Before coding,Sometimes,Nescafe,Sometimes,Female,Syria,30 to 39
+4,8,In the morning,Sometimes,American Coffee,Yes,Male,Syria,18 to 29
+3,3,While coding,Sometimes,Turkish,Sometimes,Male,Lebanon,18 to 29
+5,7,While coding,Yes,Caffè latte,Yes,Male,Jordan,18 to 29
+6,8,All the time,Yes,Nescafe,Yes,Male,Egypt,30 to 39
+7,6,While coding,Sometimes,Nescafe,Yes,Male,Egypt,40 to 49
+8,7,While coding,No,Americano,No,Male,Syria,18 to 29
+8,8,Before coding,Yes,Cappuccino,Sometimes,Male,Syria,30 to 39
+6,5,While coding,Yes,Turkish,No,Female,Jordan,30 to 39
+3,8,While coding,Sometimes,American Coffee,Sometimes,Male,Jordan,18 to 29
+7,2,All the time,Sometimes,American Coffee,Sometimes,Male,Jordan,18 to 29
+3,8,Before coding,No,Turkish,Sometimes,Male,Egypt,18 to 29
+5,6,While coding,Sometimes,Nescafe,Sometimes,Male,Lebanon,18 to 29
+9,2,Before coding,No,Espresso (Short Black),Sometimes,Female,Syria,18 to 29
+4,3,While coding,Yes,Nescafe,Yes,Male,Syria,18 to 29
+10,5,While coding,Yes,Nescafe,Sometimes,Male,Jordan,18 to 29
+10,8,While coding,Yes,Nescafe,Sometimes,Male,Syria,18 to 29
+9,4,Before and while coding,Yes,American Coffee,Sometimes,Male,Syria,18 to 29
+7,7,Before coding,No,Nescafe,Yes,Male,Syria,18 to 29
+2,2,While coding,No,Nescafe,Sometimes,Male,Egypt,18 to 29
+6,4,While coding,Yes,Turkish,Sometimes,Female,Egypt,18 to 29
+6,5,Before and while coding,No,Espresso (Short Black),Yes,Male,Syria,18 to 29
+7,7,Before coding,Sometimes,Turkish,Yes,Female,Syria,30 to 39
+6,6,While coding,Sometimes,Nescafe,Sometimes,Male,Egypt,40 to 49
+9,8,While coding,Sometimes,Espresso (Short Black),No,Female,Jordan,30 to 39
+7,8,While coding,Yes,Nescafe,No,Female,Jordan,40 to 49
+8,5,Before coding,Yes,Nescafe,Sometimes,Male,Syria,40 to 49
+9,4,In the morning,No,Turkish,Sometimes,Male,Jordan,18 to 29
+10,5,While coding,No,Caffè latte,Yes,Male,Jordan,18 to 29
+10,4,While coding,Yes,Nescafe,Yes,Male,Jordan,50 to 59
+9,6,While coding,Sometimes,Espresso (Short Black),Sometimes,Male,Egypt,18 to 29
+8,8,While coding,Sometimes,American Coffee,Yes,Male,Jordan,18 to 29
+7,7,While coding,Yes,American Coffee,Sometimes,Female,Syria,18 to 29
+10,8,Before coding,Sometimes,Nescafe,Yes,Male,Jordan,18 to 29
+3,8,After coding,Sometimes,Nescafe,No,Male,Lebanon,18 to 29
+10,2,Before coding,No,Nescafe,Yes,Male,Egypt,18 to 29
+5,1,Before coding,Sometimes,Nescafe,Yes,Female,Syria,18 to 29
+10,8,Before coding,Sometimes,Nescafe,Sometimes,Male,Egypt,30 to 39
+10,7,While coding,Sometimes,Turkish,Sometimes,Female,Jordan,30 to 39
+5,8,While coding,Yes,Cappuccino,Yes,Male,Egypt,18 to 29
+5,8,While coding,No,Nescafe,Sometimes,Female,Jordan,18 to 29
+10,2,Before and while coding,Sometimes,American Coffee,Yes,Male,Lebanon,30 to 39
+8,2,While coding,Sometimes,Espresso (Short Black),Yes,Male,Egypt,18 to 29
+3,3,While coding,Yes,Nescafe,Sometimes,Male,Egypt,30 to 39
+3,1,Before coding,Yes,Turkish,No,Male,Egypt,18 to 29
+8,3,Before and while coding,Sometimes,Cappuccino,Sometimes,Male,Syria,18 to 29
+1,8,While coding,Yes,American Coffee,No,Male,Jordan,18 to 29
+1,4,While coding,Yes,Nescafe,No,Female,Syria,30 to 39
+8,8,While coding,Yes,Nescafe,No,Male,Syria,18 to 29
+6,1,While coding,No,Espresso (Short Black),Sometimes,Female,Jordan,18 to 29
+8,8,While coding,Sometimes,Nescafe,No,Female,Lebanon,18 to 29
+3,4,While coding,Sometimes,Nescafe,Sometimes,Male,Jordan,18 to 29
+9,8,While coding,Yes,Nescafe,Yes,Female,Lebanon,18 to 29
+5,8,While coding,Sometimes,American Coffee,No,Male,Syria,18 to 29
+5,7,While coding,Yes,Turkish,Yes,Male,Egypt,18 to 29
+2,8,While coding,Yes,Turkish,No,Male,Egypt,40 to 49
+8,7,While coding,Sometimes,Espresso (Short Black),Yes,Female,Jordan,30 to 39
+8,2,While coding,Yes,Caffè latte,Sometimes,Female,Jordan,30 to 39
+8,6,Before and while coding,Sometimes,Nescafe,Sometimes,Male,Jordan,18 to 29
+2,5,While coding,Sometimes,Nescafe,Sometimes,Male,Jordan,18 to 29
+10,7,While coding,Sometimes,Turkish,No,Male,Lebanon,18 to 29
+10,8,While coding,Sometimes,American Coffee,Yes,Female,Jordan,18 to 29
+8,7,While coding,Yes,Cappuccino,Yes,Male,Jordan,18 to 29
+2,1,While coding,No,Nescafe,Yes,Male,Jordan,30 to 39
+8,8,While coding,No,American Coffee,Sometimes,Male,Lebanon,30 to 39
+8,4,In the morning,No,Nescafe,No,Male,Syria,50 to 59
+10,3,Before coding,Sometimes,Nescafe,Yes,Male,Jordan,18 to 29
+8,2,While coding,Sometimes,Espresso (Short Black),Sometimes,Male,Syria,18 to 29
+8,6,Before coding,Sometimes,American Coffee,Sometimes,Male,Egypt,18 to 29
+10,3,Before coding,No,Nescafe,Sometimes,Male,Jordan,18 to 29
+7,2,While coding,Yes,Americano,Sometimes,Male,Lebanon,18 to 29
+8,1,Before coding,Sometimes,American Coffee,No,Male,Egypt,18 to 29
+6,6,While coding,Sometimes,Nescafe,Sometimes,Male,Jordan,18 to 29
+6,8,While coding,Sometimes,Espresso (Short Black),No,Male,Egypt,18 to 29
+7,7,While coding,No,Nescafe,Sometimes,Male,Egypt,30 to 39
+10,8,Before coding,Sometimes,Americano,Sometimes,Male,Lebanon,18 to 29
+6,7,While coding,Sometimes,Nescafe,Yes,Female,Egypt,30 to 39
+6,4,Before coding,No,Double Espresso (Doppio),No,Female,Syria,30 to 39
+7,7,While coding,Yes,Cappuccino,Sometimes,Male,Egypt,18 to 29
+4,5,While coding,Sometimes,American Coffee,Yes,Male,Jordan,18 to 29
+7,5,While coding,Sometimes,Nescafe,Sometimes,Male,Syria,40 to 49
+4,8,Before coding,Sometimes,Nescafe,Sometimes,Male,Jordan,30 to 39
+10,5,While coding,Sometimes,Espresso (Short Black),No,Male,Jordan,18 to 29
+4,7,Before coding,Sometimes,American Coffee,Sometimes,Female,Jordan,18 to 29
+10,8,While coding,Sometimes,Turkish,No,Male,Egypt,18 to 29
+10,8,Before coding,Yes,American Coffee,Yes,Female,Jordan,18 to 29
+8,6,Before coding,No,Nescafe,Sometimes,Male,Egypt,18 to 29
+10,7,All the time,Yes,American Coffee,No,Female,Lebanon,30 to 39
+6,2,While coding,No,Nescafe,Yes,Male,Syria,18 to 29
+10,5,Before coding,Yes,Caffè latte,Yes,Female,Jordan,18 to 29
+9,1,While coding,Yes,Caffè latte,Sometimes,Male,Jordan,30 to 39
+6,4,All the time,Sometimes,Turkish,Sometimes,Male,Syria,40 to 49
+10,5,While coding,Sometimes,Nescafe,Yes,Female,Jordan,30 to 39
+3,5,While coding,Sometimes,Nescafe,Sometimes,Male,Syria,30 to 39
+8,6,Before and while coding,Sometimes,Turkish,Sometimes,Female,Egypt,30 to 39
+9,4,While coding,Sometimes,Nescafe,Yes,Male,Lebanon,18 to 29
+6,5,All the time,Yes,Cappuccino,Sometimes,Female,Jordan,30 to 39
+3,2,While coding,Sometimes,Turkish,No,Female,Lebanon,30 to 39
+9,1,Before and while coding,Yes,Nescafe,No,Female,Syria,18 to 29
+7,2,All the time,Yes,American Coffee,Sometimes,Female,Egypt,18 to 29
+8,2,While coding,Yes,American Coffee,Yes,Male,Jordan,18 to 29
+8,6,While coding,Sometimes,American Coffee,No,Male,Syria,18 to 29
+10,7,Before coding,Sometimes,Nescafe,Sometimes,Male,Syria,18 to 29
+2,1,Before coding,Sometimes,Nescafe,No,Male,Jordan,18 to 29
+4,4,Before coding,Sometimes,Nescafe,Yes,Male,Syria,30 to 39
+10,4,In the morning,Sometimes,Cappuccino,Yes,Male,Jordan,18 to 29
+9,2,While coding,Sometimes,Nescafe,No,Male,Egypt,18 to 29
+4,5,Before coding,No,Cappuccino,Sometimes,Male,Jordan,18 to 29
+3,2,While coding,Sometimes,Nescafe,Yes,Male,Jordan,30 to 39
+5,1,While coding,Sometimes,Nescafe,Sometimes,Male,Jordan,18 to 29
+2,3,While coding,Sometimes,Turkish,Yes,Male,Egypt,30 to 39
+8,2,Before coding,Sometimes,Americano,Sometimes,Male,Lebanon,30 to 39
+7,4,While coding,No,Nescafe,Yes,Male,Jordan,18 to 29
+10,4,After coding,Sometimes,Cappuccino,No,Male,Syria,30 to 39
+9,4,Before coding,Sometimes,Nescafe,No,Female,Jordan,18 to 29
+8,1,In the morning,Sometimes,Americano,Sometimes,Male,Egypt,18 to 29
+10,3,While coding,Yes,American Coffee,Yes,Female,Syria,18 to 29
+10,5,While coding,Yes,Espresso (Short Black),Sometimes,Male,Syria,18 to 29
+8,1,All the time,Sometimes,American Coffee,No,Male,Jordan,40 to 49
+8,1,While coding,Sometimes,Turkish,Yes,Male,Lebanon,18 to 29
+4,5,In the morning,Yes,Caffè latte,Sometimes,Female,Jordan,18 to 29
+9,5,While coding,Sometimes,Nescafe,No,Male,Jordan,18 to 29
+6,1,Before coding,No,Turkish,Sometimes,Male,Egypt,30 to 39
+5,3,While coding,Sometimes,Espresso (Short Black),Yes,Male,Syria,30 to 39
+4,6,While coding,Sometimes,Nescafe,Yes,Female,Jordan,18 to 29
+10,7,Before coding,Sometimes,Nescafe,Sometimes,Female,Jordan,30 to 39
+4,1,While coding,Sometimes,Nescafe,Yes,Female,Jordan,18 to 29
+2,4,In the morning,Sometimes,Turkish,Yes,Male,Syria,40 to 49
+4,2,Before coding,Sometimes,Turkish,Sometimes,Male,Jordan,18 to 29
+10,6,Before coding,Yes,Nescafe,Yes,Male,Syria,50 to 59
+8,8,Before coding,Sometimes,Caffè latte,Sometimes,Male,Jordan,30 to 39
+6,8,Before coding,Sometimes,Turkish,No,Male,Syria,18 to 29
+4,7,Before coding,Sometimes,Nescafe,Sometimes,Male,Jordan,18 to 29
+3,3,Before coding,Sometimes,Espresso (Short Black),Yes,Male,Jordan,18 to 29
+8,4,While coding,No,Nescafe,No,Male,Jordan,18 to 29
+8,5,While coding,Sometimes,Cappuccino,Sometimes,Male,Syria,30 to 39
+2,2,All the time,No,Nescafe,Yes,Female,Syria,18 to 29
+10,6,While coding,Sometimes,Espresso (Short Black),Sometimes,Male,Syria,18 to 29
+8,3,While coding,Sometimes,Turkish,Yes,Male,Jordan,18 to 29
+8,8,While coding,Sometimes,American Coffee,Yes,Male,Lebanon,18 to 29
+6,8,Before coding,Yes,Cappuccino,Sometimes,Male,Egypt,18 to 29
+7,7,While coding,Yes,American Coffee,No,Female,Jordan,18 to 29
+3,3,Before coding,Sometimes,Nescafe,Sometimes,Female,Syria,18 to 29
+7,1,While coding,Sometimes,Turkish,Yes,Male,Jordan,30 to 39
+7,5,Before coding,Sometimes,Caffè latte,Yes,Male,Jordan,30 to 39
+5,7,Before coding,Sometimes,Cappuccino,No,Male,Syria,18 to 29
+10,4,All the time,No,Nescafe,Sometimes,Female,Egypt,18 to 29
+10,2,While coding,Yes,American Coffee,Sometimes,Female,Jordan,30 to 39
+9,1,While coding,Sometimes,American Coffee,Sometimes,Male,Lebanon,30 to 39
+8,8,While coding,Yes,Espresso (Short Black),Sometimes,Female,Jordan,18 to 29
+4,8,While coding,Sometimes,Turkish,Sometimes,Female,Syria,18 to 29
+3,4,While coding,Sometimes,Nescafe,No,Female,Syria,30 to 39
+10,1,Before coding,Sometimes,Espresso (Short Black),Sometimes,Male,Jordan,Under 18
+8,1,While coding,Sometimes,Nescafe,Yes,Female,Syria,30 to 39
+8,6,While coding,Sometimes,Turkish,Yes,Male,Egypt,18 to 29
+5,6,After coding,Sometimes,Turkish,Sometimes,Male,Jordan,18 to 29
+6,8,Before coding,Sometimes,American Coffee,Yes,Female,Jordan,18 to 29
+10,4,In the morning,Sometimes,Double Espresso (Doppio),No,Male,Lebanon,18 to 29
+6,8,While coding,No,Cappuccino,No,Male,Egypt,18 to 29
+9,2,While coding,No,Espresso (Short Black),Yes,Male,Jordan,18 to 29
+10,7,While coding,Sometimes,Nescafe,No,Male,Lebanon,18 to 29
+8,7,While coding,Sometimes,Nescafe,Yes,Male,Lebanon,30 to 39
+6,6,Before coding,Yes,American Coffee,Sometimes,Male,Syria,30 to 39
+8,6,While coding,Sometimes,Nescafe,Sometimes,Male,Syria,30 to 39
+10,8,After coding,No,Caffè latte,Sometimes,Male,Syria,18 to 29
+9,2,While coding,No,Caffè latte,Sometimes,Male,Syria,18 to 29
+7,7,While coding,Sometimes,Turkish,No,Female,Lebanon,18 to 29
+10,8,While coding,Yes,American Coffee,Sometimes,Male,Jordan,40 to 49
+4,8,While coding,Sometimes,Nescafe,Sometimes,Female,Egypt,18 to 29
+6,2,While coding,Sometimes,American Coffee,No,Female,Lebanon,30 to 39
+5,6,While coding,Sometimes,Cappuccino,Yes,Female,Syria,30 to 39
+7,5,Before coding,Sometimes,Turkish,Yes,Male,Syria,18 to 29
+6,5,Before coding,No,American Coffee,No,Male,Egypt,18 to 29
+8,1,While coding,Sometimes,Nescafe,No,Male,Egypt,30 to 39
+8,5,Before coding,Sometimes,Cappuccino,Sometimes,Female,Lebanon,30 to 39
+6,6,While coding,Sometimes,Nescafe,Sometimes,Male,Syria,18 to 29
+6,1,Before coding,Yes,Nescafe,Yes,Female,Egypt,18 to 29
+8,6,While coding,No,Cappuccino,No,Male,Egypt,18 to 29
+8,8,Before coding,No,Nescafe,Yes,Female,Syria,18 to 29
+9,8,After coding,No,American Coffee,No,Male,Jordan,18 to 29
+10,1,No specific time,No,Turkish,Sometimes,Male,Syria,30 to 39
+5,7,While coding,No,Turkish,No,Male,Egypt,50 to 59
+6,8,In the morning,Yes,Espresso (Short Black),Yes,Female,Lebanon,18 to 29
+8,2,While coding,No,Espresso (Short Black),Sometimes,Male,Egypt,18 to 29
+2,5,Before coding,Sometimes,Cappuccino,Sometimes,Male,Syria,30 to 39
+6,2,Before coding,Sometimes,American Coffee,Sometimes,Female,Egypt,30 to 39
+7,2,Before coding,Sometimes,Double Espresso (Doppio),Sometimes,Male,Egypt,40 to 49
+9,5,While coding,Yes,American Coffee,Yes,Female,Syria,18 to 29
+3,3,While coding,Sometimes,American Coffee,No,Male,Lebanon,18 to 29
+3,5,Before coding,Yes,Nescafe,No,Male,Syria,18 to 29
+6,6,While coding,Yes,Turkish,No,Male,Jordan,18 to 29
+4,5,While coding,Sometimes,Turkish,Yes,Male,Jordan,18 to 29
+10,7,While coding,Sometimes,Turkish,Yes,Male,Syria,18 to 29
+10,1,While coding,Sometimes,Nescafe,Yes,Male,Lebanon,30 to 39
+8,8,Before coding,Yes,Turkish,Yes,Female,Jordan,18 to 29
+2,1,Before coding,Sometimes,Nescafe,Sometimes,Male,Lebanon,18 to 29
+9,3,Before coding,Sometimes,American Coffee,Yes,Male,Lebanon,30 to 39
+10,1,While coding,Yes,Turkish,Sometimes,Male,Jordan,18 to 29
+2,7,No specific time,Sometimes,Nescafe,Yes,Male,Jordan,18 to 29
+8,5,While coding,Yes,Nescafe,Sometimes,Male,Syria,Under 18
+5,4,Before coding,Sometimes,Turkish,Sometimes,Female,Syria,18 to 29
+10,7,While coding,No,Nescafe,Yes,Male,Egypt,18 to 29
+2,6,Before coding,Sometimes,Nescafe,No,Male,Egypt,30 to 39
+10,6,While coding,Yes,Turkish,Sometimes,Male,Jordan,30 to 39
+2,2,While coding,Sometimes,Espresso (Short Black),Yes,Male,Lebanon,30 to 39
+7,2,While coding,Sometimes,American Coffee,No,Male,Jordan,18 to 29
+2,6,While coding,Sometimes,Turkish,No,Female,Jordan,Under 18
+10,3,While coding,Sometimes,Nescafe,Sometimes,Male,Jordan,30 to 39
+9,6,While coding,Yes,American Coffee,Sometimes,Male,Egypt,18 to 29
+8,8,While coding,Sometimes,American Coffee,Sometimes,Male,Syria,18 to 29
+10,3,Before coding,Sometimes,Nescafe,Sometimes,Female,Jordan,30 to 39
+3,5,Before coding,Yes,American Coffee,No,Male,Lebanon,18 to 29
+6,4,Before coding,No,Nescafe,Yes,Male,Syria,18 to 29
+8,3,Before coding,No,Turkish,No,Male,Jordan,18 to 29
+3,6,While coding,Yes,American Coffee,No,Male,Lebanon,30 to 39
+5,1,All the time,Yes,Turkish,No,Male,Egypt,Under 18
+2,4,Before coding,No,Espresso (Short Black),Yes,Male,Jordan,30 to 39
+4,4,While coding,Sometimes,Nescafe,Yes,Female,Jordan,30 to 39
+9,3,While coding,Yes,Nescafe,Yes,Male,Jordan,30 to 39
+10,3,While coding,Sometimes,Nescafe,Yes,Male,Lebanon,18 to 29
+10,8,While coding,Sometimes,Nescafe,No,Male,Lebanon,18 to 29
+6,5,While coding,Yes,Nescafe,No,Male,Syria,18 to 29
+6,3,Before and while coding,Sometimes,American Coffee,Sometimes,Male,Egypt,18 to 29
+3,2,Before and while coding,Sometimes,Nescafe,Sometimes,Male,Jordan,18 to 29
+10,5,Before coding,Sometimes,Caffè latte,Yes,Male,Jordan,30 to 39
+2,2,While coding,Sometimes,Nescafe,Sometimes,Male,Jordan,30 to 39
+10,7,While coding,Sometimes,Double Espresso (Doppio),Yes,Male,Egypt,40 to 49
+4,2,After coding,Sometimes,Nescafe,Yes,Male,Jordan,30 to 39
+3,5,While coding,Sometimes,Turkish,Yes,Male,Jordan,18 to 29
+2,3,Before and while coding,No,Turkish,Sometimes,Female,Jordan,18 to 29
+6,5,While coding,Yes,Nescafe,Sometimes,Female,Jordan,18 to 29
+7,6,While coding,Sometimes,Nescafe,No,Female,Jordan,18 to 29
+8,3,While coding,Yes,Cappuccino,No,Female,Egypt,18 to 29
+10,2,Before and while coding,Sometimes,American Coffee,Sometimes,Male,Syria,30 to 39
+9,5,While coding,Sometimes,Turkish,Yes,Male,Egypt,18 to 29
+3,3,While coding,Sometimes,American Coffee,No,Male,Egypt,40 to 49
+3,6,While coding,Sometimes,Nescafe,No,Male,Syria,18 to 29
+8,3,Before and while coding,Sometimes,Cappuccino,No,Male,Syria,30 to 39
+8,4,While coding,Yes,Caffè latte,Sometimes,Male,Syria,50 to 59
+10,2,After coding,Sometimes,American Coffee,Sometimes,Female,Lebanon,18 to 29
+7,6,While coding,Sometimes,Turkish,Sometimes,Male,Jordan,30 to 39
+2,5,After coding,Sometimes,Espresso (Short Black),No,Male,Egypt,18 to 29
+10,7,Before coding,Yes,Turkish,Sometimes,Male,Syria,30 to 39
+8,3,All the time,Yes,Espresso (Short Black),No,Male,Jordan,30 to 39
+10,5,Before coding,Yes,Nescafe,Sometimes,Female,Jordan,18 to 29
+6,2,While coding,Sometimes,Cappuccino,Sometimes,Male,Egypt,18 to 29
+7,8,While coding,Yes,American Coffee,Yes,Female,Egypt,18 to 29
+7,8,While coding,Yes,Double Espresso (Doppio),Yes,Male,Syria,18 to 29
+8,6,While coding,Sometimes,Turkish,Yes,Male,Lebanon,18 to 29
+7,1,Before coding,Sometimes,Turkish,No,Female,Syria,18 to 29
+8,6,While coding,Yes,American Coffee,No,Male,Jordan,18 to 29
+7,5,While coding,Sometimes,American Coffee,No,Male,Jordan,18 to 29
+10,5,Before coding,Yes,Nescafe,No,Male,Jordan,40 to 49
+7,6,While coding,No,Nescafe,Sometimes,Male,Egypt,18 to 29
+3,6,Before coding,Sometimes,Turkish,Sometimes,Male,Syria,18 to 29
+6,1,Before coding,Sometimes,American Coffee,No,Male,Lebanon,30 to 39
+3,3,While coding,Sometimes,Caffè latte,Sometimes,Female,Lebanon,30 to 39
+10,2,While coding,No,American Coffee,Yes,Male,Jordan,30 to 39
+8,1,Before coding,Yes,Turkish,Sometimes,Male,Egypt,30 to 39
+8,5,No specific time,Yes,Turkish,No,Male,Egypt,18 to 29
+4,5,While coding,Sometimes,Espresso (Short Black),Yes,Male,Egypt,18 to 29
+10,3,While coding,No,American Coffee,Yes,Male,Jordan,40 to 49
+3,1,While coding,Sometimes,Turkish,Sometimes,Male,Egypt,18 to 29
+8,8,In the morning,Sometimes,Turkish,No,Female,Jordan,18 to 29
+10,5,Before coding,Yes,Double Espresso (Doppio),Sometimes,Male,Egypt,18 to 29
+8,6,Before coding,Yes,Nescafe,Sometimes,Male,Syria,18 to 29
+8,8,While coding,No,Nescafe,Yes,Male,Lebanon,30 to 39
+7,1,While coding,Yes,Double Espresso (Doppio),Sometimes,Female,Jordan,Under 18
+9,4,Before coding,Sometimes,Nescafe,Sometimes,Male,Lebanon,18 to 29
+10,8,While coding,Sometimes,Espresso (Short Black),Sometimes,Male,Syria,18 to 29
+3,8,While coding,Sometimes,American Coffee,Yes,Male,Egypt,18 to 29
+8,6,Before coding,No,Turkish,Sometimes,Male,Syria,30 to 39
+7,5,While coding,Sometimes,Nescafe,Sometimes,Male,Egypt,18 to 29
+8,8,While coding,Yes,Nescafe,No,Male,Egypt,30 to 39
+8,4,While coding,Yes,Nescafe,Yes,Male,Syria,30 to 39
+8,1,While coding,Sometimes,Double Espresso (Doppio),Sometimes,Male,Egypt,30 to 39
+2,8,Before coding,Sometimes,American Coffee,Sometimes,Male,Lebanon,18 to 29
+3,3,While coding,Sometimes,American Coffee,Sometimes,Male,Egypt,30 to 39
+8,7,While coding,Sometimes,Turkish,No,Male,Syria,30 to 39
+8,1,Before coding,Yes,Espresso (Short Black),Sometimes,Female,Jordan,18 to 29
+9,5,While coding,No,American Coffee,No,Male,Jordan,30 to 39
+8,5,While coding,Sometimes,American Coffee,Sometimes,Male,Syria,18 to 29
+5,1,Before coding,Sometimes,Turkish,Yes,Male,Jordan,40 to 49
+2,1,Before coding,Yes,Nescafe,Sometimes,Male,Egypt,40 to 49
+6,7,Before coding,Yes,Caffè latte,Sometimes,Male,Lebanon,30 to 39
+6,5,Before coding,No,Cappuccino,Sometimes,Male,Egypt,18 to 29
+6,1,While coding,Sometimes,Nescafe,Sometimes,Female,Egypt,40 to 49
+4,7,Before coding,Yes,Double Espresso (Doppio),Yes,Male,Jordan,30 to 39
+10,8,While coding,Sometimes,Turkish,Sometimes,Male,Jordan,30 to 39
+7,8,While coding,Sometimes,Nescafe,Yes,Female,Lebanon,30 to 39
+10,8,While coding,Sometimes,Nescafe,Yes,Female,Egypt,30 to 39
+8,2,Before coding,Sometimes,American Coffee,Yes,Male,Syria,30 to 39
+7,1,Before coding,Yes,American Coffee,Sometimes,Male,Syria,18 to 29
+6,4,Before coding,Sometimes,Espresso (Short Black),No,Female,Jordan,30 to 39
+2,3,While coding,Yes,Turkish,Sometimes,Male,Lebanon,30 to 39
+6,8,Before coding,No,Nescafe,Sometimes,Female,Egypt,18 to 29
+10,8,While coding,Yes,American Coffee,Sometimes,Male,Egypt,18 to 29
+6,5,While coding,No,Turkish,No,Male,Lebanon,18 to 29
+8,1,While coding,Sometimes,American Coffee,No,Male,Lebanon,18 to 29
+8,7,All the time,Yes,Turkish,Sometimes,Female,Lebanon,18 to 29
+5,8,While coding,No,American Coffee,No,Male,Syria,30 to 39
+8,3,Before and while coding,Yes,Nescafe,Sometimes,Male,Jordan,30 to 39
+2,5,Before coding,Yes,American Coffee,Sometimes,Male,Egypt,18 to 29
+3,8,While coding,No,Cappuccino,Sometimes,Male,Lebanon,18 to 29
+8,7,Before coding,Yes,Nescafe,No,Male,Egypt,30 to 39
+10,5,All the time,Sometimes,Turkish,Sometimes,Male,Jordan,30 to 39
+4,6,Before coding,Sometimes,Espresso (Short Black),Sometimes,Male,Egypt,18 to 29
+8,1,Before coding,No,Double Espresso (Doppio),Sometimes,Male,Jordan,18 to 29
+3,7,Before coding,Sometimes,Nescafe,Sometimes,Male,Syria,30 to 39
+9,4,While coding,Yes,Nescafe,No,Male,Egypt,30 to 39
+9,5,While coding,Yes,American Coffee,Sometimes,Female,Jordan,30 to 39
+10,4,While coding,Yes,Turkish,No,Female,Jordan,30 to 39
+6,4,While coding,Sometimes,Nescafe,Sometimes,Male,Jordan,18 to 29
+3,4,Before coding,No,Nescafe,No,Male,Jordan,18 to 29
+8,7,All the time,No,Espresso (Short Black),Sometimes,Male,Syria,18 to 29
+10,8,In the morning,Yes,Turkish,Sometimes,Male,Egypt,18 to 29
+6,5,While coding,Yes,Caffè latte,No,Female,Syria,18 to 29
+6,2,Before coding,Sometimes,Nescafe,No,Female,Lebanon,18 to 29
+3,1,While coding,Sometimes,Nescafe,Yes,Female,Egypt,Under 18
+8,7,While coding,Sometimes,Nescafe,Yes,Male,Jordan,18 to 29
+6,1,While coding,Sometimes,American Coffee,No,Male,Syria,18 to 29
+7,8,While coding,Yes,American Coffee,Yes,Female,Syria,18 to 29
+10,8,While coding,Yes,American Coffee,Yes,Female,Syria,18 to 29
+8,2,Before coding,Sometimes,Espresso (Short Black),Sometimes,Male,Lebanon,18 to 29
+3,5,While coding,Yes,American Coffee,Yes,Male,Egypt,18 to 29
+10,4,While coding,Yes,Nescafe,Yes,Male,Lebanon,30 to 39
+9,8,While coding,Yes,American Coffee,Yes,Male,Lebanon,18 to 29
+7,7,While coding,Yes,Turkish,Sometimes,Male,Jordan,30 to 39
+10,1,After coding,Sometimes,American Coffee,No,Female,Egypt,18 to 29
+2,5,Before coding,Sometimes,Turkish,No,Female,Egypt,18 to 29
+6,3,While coding,Yes,Nescafe,Yes,Male,Syria,18 to 29
+10,2,While coding,Sometimes,Espresso (Short Black),Yes,Male,Lebanon,40 to 49
+10,1,While coding,Sometimes,Turkish,No,Male,Syria,18 to 29
+4,7,Before coding,Sometimes,Turkish,Sometimes,Male,Syria,18 to 29
+10,1,All the time,No,Espresso (Short Black),No,Male,Jordan,18 to 29
+5,2,Before coding,No,American Coffee,Sometimes,Female,Lebanon,30 to 39
+6,5,While coding,Yes,Turkish,Sometimes,Male,Egypt,30 to 39
+4,8,While coding,Sometimes,Turkish,Sometimes,Male,Jordan,18 to 29
+9,1,While coding,Sometimes,Caffè latte,Yes,Female,Syria,18 to 29
+6,1,While coding,Sometimes,Nescafe,Sometimes,Male,Syria,30 to 39
+8,5,While coding,Yes,Nescafe,No,Female,Lebanon,18 to 29
+6,2,While coding,Sometimes,Nescafe,Yes,Female,Syria,18 to 29
+4,3,While coding,Sometimes,American Coffee,Sometimes,Male,Egypt,18 to 29
+3,3,While coding,Yes,Turkish,Sometimes,Male,Lebanon,30 to 39
+8,4,While coding,Sometimes,Espresso (Short Black),No,Male,Jordan,30 to 39
+8,7,While coding,Yes,Cappuccino,Yes,Male,Egypt,18 to 29
+10,7,While coding,Yes,Espresso (Short Black),Yes,Female,Syria,18 to 29
+9,4,While coding,No,Turkish,Sometimes,Male,Jordan,18 to 29
+7,2,While coding,Sometimes,Cappuccino,No,Male,Syria,30 to 39
+2,8,While coding,No,Nescafe,No,Male,Egypt,30 to 39
+6,3,While coding,No,Turkish,Sometimes,Female,Egypt,18 to 29
+7,3,While coding,Sometimes,Nescafe,Sometimes,Male,Egypt,18 to 29
+8,4,While coding,Sometimes,Caffè latte,Sometimes,Male,Egypt,18 to 29
+8,7,Before and while coding,Sometimes,Nescafe,No,Male,Jordan,40 to 49
+5,7,While coding,Sometimes,American Coffee,Yes,Female,Egypt,30 to 39
+2,4,While coding,Sometimes,Turkish,No,Male,Egypt,30 to 39
+8,3,Before coding,Sometimes,Turkish,Yes,Female,Syria,18 to 29
+4,2,Before and while coding,Sometimes,American Coffee,No,Female,Egypt,30 to 39
+7,4,While coding,No,Turkish,Sometimes,Male,Syria,30 to 39
+7,4,Before coding,Sometimes,Double Espresso (Doppio),Yes,Female,Lebanon,18 to 29
+8,2,Before coding,Yes,Nescafe,Sometimes,Male,Jordan,18 to 29
+3,2,While coding,Sometimes,Nescafe,Sometimes,Female,Egypt,18 to 29
+8,8,While coding,Sometimes,Espresso (Short Black),Sometimes,Male,Syria,18 to 29
+7,7,While coding,Sometimes,American Coffee,Sometimes,Male,Jordan,30 to 39
+6,5,Before coding,No,Nescafe,Yes,Male,Jordan,18 to 29
+10,6,While coding,Yes,American Coffee,Yes,Male,Jordan,30 to 39
+10,5,While coding,No,Nescafe,Yes,Male,Syria,30 to 39
+8,8,While coding,Sometimes,Cappuccino,Sometimes,Male,Syria,30 to 39
+6,3,While coding,No,Nescafe,Sometimes,Male,Jordan,30 to 39
+6,2,While coding,Yes,Turkish,No,Female,Jordan,50 to 59
+3,3,While coding,Sometimes,American Coffee,No,Female,Egypt,40 to 49
+3,1,Before coding,Sometimes,Turkish,Sometimes,Male,Jordan,30 to 39
+1,8,Before coding,Yes,Espresso (Short Black),Sometimes,Male,Syria,40 to 49
+2,1,Before coding,Yes,American Coffee,Yes,Male,Egypt,30 to 39
+2,5,Before coding,Sometimes,American Coffee,No,Male,Jordan,18 to 29
+8,6,Before coding,Yes,Nescafe,No,Male,Syria,18 to 29
+9,5,In the morning,Yes,Cappuccino,No,Female,Syria,30 to 39
+10,8,While coding,Yes,Espresso (Short Black),Yes,Male,Syria,18 to 29
+6,2,Before coding,Sometimes,American Coffee,Sometimes,Female,Syria,18 to 29
+2,1,No specific time,Sometimes,Nescafe,No,Male,Egypt,18 to 29
+6,4,While coding,Yes,Turkish,Sometimes,Female,Syria,18 to 29
+8,8,While coding,Yes,Turkish,Yes,Female,Egypt,18 to 29
+3,1,In the morning,Yes,Cappuccino,No,Female,Jordan,18 to 29
+10,1,Before coding,Yes,Double Espresso (Doppio),No,Male,Syria,30 to 39
+9,1,While coding,Yes,American Coffee,Sometimes,Male,Jordan,18 to 29
+3,1,While coding,Sometimes,Nescafe,No,Female,Syria,18 to 29
+2,5,While coding,Sometimes,Nescafe,No,Male,Jordan,18 to 29
+8,5,While coding,Yes,Espresso (Short Black),Sometimes,Male,Syria,18 to 29
+3,1,While coding,Sometimes,Caffè latte,Sometimes,Male,Jordan,30 to 39
+6,5,While coding,Yes,Turkish,Yes,Male,Jordan,30 to 39
+2,5,While coding,Sometimes,Turkish,Sometimes,Male,Jordan,18 to 29
+4,2,While coding,Sometimes,Nescafe,Yes,Male,Jordan,18 to 29
+6,6,Before coding,Sometimes,Nescafe,Yes,Male,Egypt,18 to 29
+9,8,While coding,Yes,Turkish,Yes,Male,Syria,30 to 39
+10,7,While coding,Sometimes,Nescafe,Sometimes,Female,Jordan,40 to 49
+10,7,Before coding,Yes,Double Espresso (Doppio),No,Male,Egypt,18 to 29
+10,2,While coding,No,American Coffee,Sometimes,Female,Egypt,18 to 29
+6,1,Before coding,Sometimes,Double Espresso (Doppio),Yes,Female,Lebanon,Under 18
+4,7,While coding,Yes,Turkish,Yes,Male,Syria,30 to 39
+6,8,While coding,Yes,American Coffee,Sometimes,Female,Syria,30 to 39
+9,1,While coding,Sometimes,Nescafe,No,Male,Jordan,18 to 29
+6,6,While coding,Sometimes,Espresso (Short Black),No,Male,Syria,30 to 39
+8,3,Before coding,Yes,American Coffee,Yes,Female,Syria,18 to 29
+8,8,While coding,Yes,Nescafe,Sometimes,Female,Syria,18 to 29
+5,4,Before and while coding,Yes,American Coffee,Sometimes,Female,Egypt,18 to 29
+6,6,In the morning,Sometimes,Nescafe,No,Male,Lebanon,30 to 39
+6,1,While coding,Yes,Nescafe,Yes,Male,Egypt,18 to 29
+10,6,Before coding,Yes,Caffè latte,Sometimes,Female,Egypt,18 to 29
+10,1,While coding,Sometimes,Turkish,Sometimes,Female,Lebanon,40 to 49
+5,8,Before coding,No,Turkish,Sometimes,Female,Jordan,18 to 29
+2,8,While coding,Sometimes,Cappuccino,No,Male,Egypt,18 to 29
+6,6,While coding,Sometimes,Nescafe,Yes,Male,Egypt,18 to 29
+4,5,Before coding,Sometimes,Turkish,Sometimes,Male,Jordan,30 to 39
+6,2,While coding,No,Turkish,Sometimes,Male,Syria,30 to 39
+10,6,Before coding,No,Nescafe,No,Male,Jordan,18 to 29
+2,5,Before and while coding,Yes,Cappuccino,Yes,Female,Jordan,18 to 29
+8,7,While coding,Sometimes,Cappuccino,Yes,Male,Egypt,50 to 59
+1,1,Before and while coding,Sometimes,Nescafe,Yes,Male,Syria,18 to 29
+10,2,While coding,Yes,Nescafe,Yes,Male,Egypt,18 to 29
+2,4,While coding,No,Americano,No,Male,Lebanon,18 to 29
+7,1,While coding,Sometimes,American Coffee,No,Male,Syria,18 to 29
+4,8,Before coding,Sometimes,Turkish,Sometimes,Male,Syria,30 to 39
+6,1,While coding,Yes,American Coffee,Yes,Male,Egypt,40 to 49
+4,4,All the time,Sometimes,American Coffee,Sometimes,Female,Lebanon,18 to 29
+9,6,While coding,Sometimes,American Coffee,Sometimes,Female,Syria,40 to 49
+4,3,Before coding,Sometimes,Double Espresso (Doppio),Yes,Female,Lebanon,30 to 39
+5,1,While coding,Sometimes,American Coffee,Sometimes,Male,Syria,18 to 29
+10,7,While coding,Sometimes,Nescafe,Sometimes,Female,Jordan,18 to 29
+7,7,While coding,Sometimes,Nescafe,No,Female,Jordan,18 to 29
+4,6,While coding,Sometimes,American Coffee,Yes,Male,Jordan,40 to 49
+3,5,Before coding,Yes,American Coffee,Sometimes,Male,Lebanon,18 to 29
+10,2,Before coding,Sometimes,Turkish,Sometimes,Male,Lebanon,30 to 39
+7,7,While coding,Yes,Nescafe,No,Male,Syria,18 to 29
+4,7,While coding,Yes,Turkish,Sometimes,Male,Jordan,30 to 39
+2,2,While coding,Yes,Nescafe,No,Male,Jordan,30 to 39
+10,4,While coding,No,Nescafe,No,Male,Jordan,30 to 39
+4,4,After coding,Sometimes,Nescafe,Sometimes,Male,Egypt,30 to 39
+2,5,Before coding,No,Double Espresso (Doppio),Sometimes,Female,Lebanon,30 to 39
+4,3,In the morning,Yes,American Coffee,Sometimes,Female,Syria,18 to 29
+6,4,While coding,Sometimes,Nescafe,No,Female,Jordan,30 to 39
+3,5,While coding,Yes,Nescafe,Sometimes,Male,Syria,18 to 29
+10,2,Before coding,Sometimes,Espresso (Short Black),Yes,Female,Jordan,18 to 29
+2,2,While coding,No,Nescafe,Yes,Male,Syria,18 to 29
+8,4,While coding,Sometimes,Double Espresso (Doppio),Yes,Male,Lebanon,18 to 29
+3,6,All the time,Yes,Nescafe,No,Male,Syria,30 to 39
+8,4,While coding,Sometimes,Nescafe,No,Male,Syria,50 to 59
+8,7,While coding,Yes,American Coffee,Sometimes,Male,Lebanon,30 to 39
+10,2,While coding,Sometimes,Nescafe,Sometimes,Male,Jordan,18 to 29
+4,3,While coding,Yes,American Coffee,Yes,Male,Syria,18 to 29
+1,5,While coding,Yes,American Coffee,No,Male,Lebanon,30 to 39
+8,3,In the morning,No,Espresso (Short Black),Sometimes,Female,Jordan,18 to 29
+6,8,While coding,Sometimes,Caffè latte,No,Male,Lebanon,18 to 29
+6,2,While coding,Sometimes,Nescafe,No,Female,Egypt,18 to 29
+4,5,While coding,Sometimes,Turkish,No,Male,Egypt,30 to 39
+6,7,Before coding,Sometimes,Nescafe,Sometimes,Male,Egypt,30 to 39
+6,8,No specific time,No,Nescafe,Sometimes,Male,Lebanon,18 to 29
+8,5,While coding,Yes,Nescafe,Yes,Male,Egypt,30 to 39
+7,6,While coding,Sometimes,Cappuccino,Sometimes,Male,Egypt,18 to 29
+9,4,While coding,Sometimes,Nescafe,Yes,Male,Egypt,18 to 29
+9,3,While coding,No,American Coffee,Yes,Male,Syria,30 to 39
+5,8,While coding,No,Cappuccino,Sometimes,Female,Jordan,18 to 29
+5,1,Before coding,Sometimes,American Coffee,No,Male,Egypt,18 to 29
+9,8,Before coding,No,Nescafe,Sometimes,Female,Jordan,40 to 49
+8,7,Before coding,Sometimes,Nescafe,Yes,Female,Jordan,18 to 29
+4,2,While coding,Sometimes,Espresso (Short Black),Yes,Male,Syria,18 to 29
+2,2,While coding,No,Nescafe,Sometimes,Male,Egypt,18 to 29
+6,4,While coding,Yes,American Coffee,Sometimes,Male,Jordan,18 to 29
+8,2,Before and while coding,Sometimes,Turkish,Sometimes,Male,Lebanon,18 to 29
+8,1,No specific time,Sometimes,Nescafe,Yes,Male,Syria,18 to 29
+2,6,While coding,Yes,Turkish,Yes,Female,Egypt,18 to 29
+8,5,While coding,Sometimes,Double Espresso (Doppio),No,Male,Egypt,18 to 29
+8,7,In the morning,Sometimes,Caffè latte,Yes,Female,Egypt,30 to 39
+6,5,While coding,Sometimes,Double Espresso (Doppio),Sometimes,Male,Syria,18 to 29
+8,4,While coding,Sometimes,Turkish,Yes,Male,Egypt,18 to 29
+6,2,Before coding,Sometimes,American Coffee,Yes,Male,Lebanon,Under 18
+8,6,While coding,No,Nescafe,Sometimes,Male,Jordan,18 to 29
+4,1,While coding,Sometimes,Turkish,Sometimes,Male,Lebanon,18 to 29
+3,6,Before coding,Yes,Double Espresso (Doppio),Sometimes,Male,Jordan,30 to 39
+6,7,While coding,Sometimes,American Coffee,Sometimes,Male,Syria,Under 18
+3,7,Before coding,Yes,Espresso (Short Black),No,Female,Lebanon,30 to 39
+4,5,Before coding,No,Cappuccino,Sometimes,Male,Egypt,30 to 39
+10,4,While coding,No,Turkish,No,Male,Syria,18 to 29
+6,4,In the morning,Yes,Caffè latte,No,Male,Jordan,18 to 29
+6,4,Before coding,Yes,Espresso (Short Black),Yes,Male,Syria,18 to 29
+1,6,While coding,Sometimes,American Coffee,Sometimes,Male,Syria,18 to 29
+10,7,While coding,Yes,Espresso (Short Black),Sometimes,Male,Egypt,30 to 39
+10,4,Before coding,No,Nescafe,Sometimes,Male,Lebanon,Under 18
+7,7,Before coding,Yes,American Coffee,No,Male,Jordan,18 to 29
+3,6,Before and while coding,Yes,American Coffee,Yes,Male,Jordan,30 to 39
+6,8,Before coding,Yes,Cappuccino,Sometimes,Male,Syria,18 to 29
+8,7,While coding,Yes,Turkish,No,Female,Syria,30 to 39
+10,7,Before coding,Sometimes,American Coffee,Sometimes,Male,Egypt,18 to 29
+3,3,While coding,Sometimes,Nescafe,No,Female,Jordan,18 to 29
+8,7,Before coding,Sometimes,Nescafe,Sometimes,Male,Jordan,40 to 49
+4,5,While coding,Sometimes,American Coffee,No,Male,Syria,18 to 29
+8,7,While coding,Sometimes,Espresso (Short Black),Yes,Male,Egypt,18 to 29
+10,3,Before coding,No,Nescafe,No,Male,Syria,18 to 29
+10,8,While coding,No,American Coffee,Sometimes,Male,Lebanon,18 to 29
+9,8,Before coding,Yes,Nescafe,Yes,Male,Syria,18 to 29
+8,3,While coding,Yes,Nescafe,No,Female,Lebanon,18 to 29
+10,3,While coding,No,Nescafe,No,Male,Jordan,30 to 39
+7,3,While coding,Sometimes,Espresso (Short Black),Sometimes,Male,Jordan,18 to 29
+3,1,While coding,Yes,Nescafe,Sometimes,Male,Egypt,18 to 29
+8,2,While coding,No,Turkish,Yes,Male,Egypt,30 to 39
+3,6,Before coding,Sometimes,Espresso (Short Black),Yes,Male,Syria,30 to 39
+10,7,While coding,Yes,Cappuccino,Yes,Male,Egypt,18 to 29
+10,2,While coding,Yes,Nescafe,No,Male,Syria,18 to 29
+7,3,While coding,Sometimes,American Coffee,Sometimes,Male,Egypt,18 to 29
+10,1,While coding,Sometimes,Espresso (Short Black),No,Male,Egypt,18 to 29
+6,6,Before and while coding,Yes,Espresso (Short Black),Sometimes,Male,Egypt,40 to 49
+4,3,While coding,Yes,Nescafe,Sometimes,Male,Syria,30 to 39
+5,2,Before coding,Sometimes,Turkish,Yes,Male,Syria,18 to 29
+4,5,Before coding,Yes,Cappuccino,Sometimes,Male,Syria,18 to 29
+10,8,After coding,Sometimes,Nescafe,Sometimes,Male,Jordan,30 to 39
+3,3,While coding,Yes,Nescafe,Yes,Male,Egypt,Under 18
+7,1,While coding,Sometimes,Nescafe,Yes,Male,Syria,18 to 29
+10,3,While coding,Sometimes,Nescafe,No,Male,Syria,18 to 29
+3,4,While coding,Yes,American Coffee,Sometimes,Male,Egypt,18 to 29
+2,6,While coding,Yes,Nescafe,Yes,Male,Syria,18 to 29
+10,3,While coding,No,Nescafe,Yes,Female,Egypt,18 to 29
+4,1,While coding,No,Turkish,No,Male,Jordan,18 to 29
+7,3,While coding,Sometimes,Nescafe,No,Male,Egypt,Under 18
+10,4,Before coding,Sometimes,Double Espresso (Doppio),Yes,Male,Egypt,18 to 29
+5,2,While coding,Sometimes,Turkish,No,Female,Jordan,30 to 39
+4,1,While coding,Sometimes,Nescafe,Yes,Male,Jordan,30 to 39
+8,5,While coding,Sometimes,Nescafe,Yes,Male,Jordan,30 to 39
+7,7,While coding,Yes,Turkish,Sometimes,Female,Syria,30 to 39
+3,8,Before coding,Sometimes,Cappuccino,No,Female,Syria,18 to 29
+4,1,While coding,No,American Coffee,Sometimes,Male,Jordan,18 to 29
+2,8,While coding,Sometimes,American Coffee,Yes,Male,Lebanon,18 to 29
+4,6,While coding,Yes,Turkish,Sometimes,Male,Syria,18 to 29
+2,5,While coding,Sometimes,Cappuccino,No,Female,Jordan,18 to 29
+10,5,Before coding,Sometimes,American Coffee,Yes,Female,Lebanon,18 to 29
+3,2,While coding,Sometimes,Nescafe,Yes,Male,Syria,18 to 29
+2,3,While coding,Sometimes,Cappuccino,Sometimes,Male,Syria,18 to 29
+10,6,All the time,Yes,Nescafe,Sometimes,Male,Jordan,30 to 39
+8,1,While coding,Sometimes,Turkish,Yes,Male,Jordan,18 to 29
+4,1,Before coding,Yes,Caffè latte,No,Male,Jordan,18 to 29
+6,1,Before coding,No,Nescafe,Sometimes,Male,Egypt,18 to 29
+3,8,While coding,Sometimes,Turkish,Sometimes,Male,Syria,30 to 39
+6,3,While coding,Sometimes,Nescafe,Sometimes,Male,Lebanon,30 to 39
+10,7,While coding,Yes,Double Espresso (Doppio),No,Male,Syria,18 to 29
+6,3,Before coding,No,Nescafe,Sometimes,Female,Syria,18 to 29
+5,8,While coding,Yes,Nescafe,Sometimes,Male,Syria,18 to 29
+2,2,While coding,Yes,Turkish,No,Male,Egypt,30 to 39
+7,1,While coding,No,Nescafe,Yes,Male,Syria,18 to 29
+10,1,While coding,Sometimes,Nescafe,Sometimes,Male,Egypt,Under 18
+7,4,Before coding,Sometimes,Nescafe,Sometimes,Female,Jordan,18 to 29
+8,6,While coding,No,Nescafe,No,Male,Egypt,18 to 29
+2,5,Before coding,Sometimes,American Coffee,No,Male,Egypt,40 to 49
+8,3,Before coding,No,Turkish,Yes,Male,Lebanon,18 to 29
+2,7,After coding,Yes,Cappuccino,Sometimes,Female,Lebanon,30 to 39
+8,5,While coding,Sometimes,Turkish,Sometimes,Female,Jordan,30 to 39
+10,7,No specific time,Sometimes,American Coffee,Yes,Male,Egypt,30 to 39
+6,7,While coding,Sometimes,Nescafe,Sometimes,Male,Syria,30 to 39
+9,2,While coding,Yes,Cappuccino,Yes,Female,Jordan,30 to 39
+5,2,Before coding,Sometimes,Nescafe,No,Male,Syria,18 to 29
+2,1,Before coding,Sometimes,Nescafe,Yes,Male,Syria,18 to 29
+3,7,All the time,Yes,American Coffee,No,Male,Lebanon,Under 18
+7,8,While coding,Yes,Nescafe,Sometimes,Male,Jordan,18 to 29
+9,4,While coding,No,Espresso (Short Black),No,Female,Syria,18 to 29
+6,4,While coding,Sometimes,Espresso (Short Black),Yes,Male,Jordan,18 to 29
+10,6,While coding,Yes,American Coffee,Sometimes,Male,Egypt,18 to 29
+3,7,Before coding,Yes,Nescafe,Yes,Male,Lebanon,30 to 39
+5,8,While coding,Yes,Nescafe,Sometimes,Male,Egypt,18 to 29
+2,5,While coding,Yes,Turkish,Sometimes,Male,Jordan,30 to 39
+4,1,While coding,Sometimes,American Coffee,No,Female,Egypt,18 to 29
+2,3,While coding,Sometimes,Caffè latte,Sometimes,Male,Jordan,18 to 29
+2,1,In the morning,Yes,American Coffee,Yes,Male,Jordan,40 to 49
+3,5,While coding,No,American Coffee,Sometimes,Male,Syria,18 to 29
+8,2,While coding,No,Nescafe,Yes,Female,Egypt,18 to 29
+10,4,While coding,Sometimes,Espresso (Short Black),No,Male,Lebanon,18 to 29
+8,6,While coding,Yes,American Coffee,No,Male,Syria,40 to 49
+5,4,All the time,Sometimes,American Coffee,Yes,Female,Egypt,30 to 39
+5,8,While coding,Sometimes,Espresso (Short Black),No,Male,Egypt,18 to 29
+9,4,After coding,Yes,Nescafe,Yes,Male,Egypt,18 to 29
+3,6,While coding,Sometimes,Espresso (Short Black),Sometimes,Male,Egypt,30 to 39
+7,5,While coding,Sometimes,Nescafe,Sometimes,Male,Jordan,18 to 29
+5,6,Before coding,Sometimes,Nescafe,Yes,Female,Egypt,18 to 29
+7,5,While coding,Sometimes,Nescafe,No,Male,Syria,18 to 29
+5,5,Before coding,Sometimes,American Coffee,Yes,Male,Syria,18 to 29
+5,8,Before coding,No,Double Espresso (Doppio),No,Male,Lebanon,18 to 29
+6,4,While coding,Sometimes,Turkish,No,Female,Jordan,30 to 39
+5,6,Before coding,Yes,American Coffee,Sometimes,Female,Syria,18 to 29
+6,6,All the time,Yes,American Coffee,Yes,Female,Egypt,18 to 29
+5,8,While coding,Sometimes,Nescafe,Sometimes,Male,Lebanon,18 to 29
+6,8,Before and while coding,No,American Coffee,Sometimes,Male,Jordan,18 to 29
+3,4,While coding,Sometimes,Caffè latte,Yes,Male,Lebanon,18 to 29
+6,2,In the morning,No,Turkish,Sometimes,Male,Syria,50 to 59
+8,1,While coding,No,American Coffee,Sometimes,Male,Jordan,18 to 29
+8,4,While coding,No,American Coffee,Sometimes,Male,Jordan,18 to 29
+5,1,While coding,Sometimes,American Coffee,No,Male,Jordan,40 to 49
+2,7,While coding,Yes,Cappuccino,Sometimes,Male,Syria,18 to 29
+10,6,While coding,No,Nescafe,Sometimes,Male,Lebanon,18 to 29
+8,1,While coding,Sometimes,Turkish,Sometimes,Male,Syria,18 to 29
+9,3,No specific time,No,American Coffee,Sometimes,Male,Syria,18 to 29
+10,6,While coding,Yes,Caffè latte,Yes,Male,Egypt,18 to 29
+6,5,All the time,No,Double Espresso (Doppio),Sometimes,Female,Syria,18 to 29
+2,7,In the morning,Sometimes,Cappuccino,Sometimes,Female,Jordan,30 to 39
+2,6,While coding,Yes,American Coffee,No,Female,Egypt,18 to 29
+5,6,All the time,No,American Coffee,Sometimes,Male,Jordan,18 to 29
+6,6,While coding,Sometimes,Nescafe,Sometimes,Male,Egypt,18 to 29
+2,2,While coding,Sometimes,American Coffee,No,Male,Lebanon,18 to 29
+2,3,All the time,Yes,Nescafe,Sometimes,Male,Lebanon,18 to 29
+7,5,While coding,Sometimes,American Coffee,Sometimes,Male,Lebanon,18 to 29
+3,7,While coding,Sometimes,American Coffee,Yes,Male,Egypt,18 to 29
+3,4,Before coding,Sometimes,American Coffee,No,Male,Lebanon,18 to 29
+5,1,Before coding,Yes,Nescafe,Yes,Female,Jordan,18 to 29
+8,1,Before coding,Sometimes,Espresso (Short Black),Sometimes,Male,Egypt,18 to 29
+2,1,Before coding,Yes,American Coffee,Sometimes,Male,Jordan,18 to 29
+8,3,Before coding,Sometimes,American Coffee,No,Female,Lebanon,30 to 39
+5,2,Before and while coding,Sometimes,Caffè latte,No,Female,Egypt,50 to 59
+4,3,While coding,No,Double Espresso (Doppio),Yes,Male,Egypt,30 to 39
+9,8,While coding,Sometimes,Nescafe,No,Male,Syria,18 to 29
+6,3,While coding,Sometimes,Nescafe,Sometimes,Male,Egypt,18 to 29
+6,2,While coding,Yes,Cappuccino,No,Female,Lebanon,18 to 29
+2,7,While coding,Sometimes,Nescafe,Sometimes,Male,Lebanon,18 to 29
+5,2,While coding,Sometimes,Espresso (Short Black),No,Male,Egypt,30 to 39
+3,3,While coding,Sometimes,Turkish,Sometimes,Female,Lebanon,18 to 29
+8,1,While coding,Sometimes,Turkish,Yes,Male,Jordan,30 to 39
+10,1,Before coding,Sometimes,Americano,Yes,Male,Jordan,18 to 29
+7,6,Before coding,Sometimes,American Coffee,Sometimes,Male,Lebanon,40 to 49
+8,3,While coding,No,Turkish,Sometimes,Male,Syria,30 to 39
+6,3,Before coding,Yes,American Coffee,Sometimes,Female,Syria,18 to 29
+10,2,While coding,Sometimes,Nescafe,Yes,Male,Jordan,18 to 29
+6,8,Before coding,No,Americano,Yes,Male,Egypt,18 to 29
+6,2,While coding,Yes,Espresso (Short Black),Sometimes,Male,Lebanon,30 to 39
+10,1,While coding,No,American Coffee,Sometimes,Male,Syria,30 to 39
+5,8,All the time,Sometimes,American Coffee,Sometimes,Male,Syria,18 to 29
+10,7,All the time,No,Espresso (Short Black),Sometimes,Male,Syria,30 to 39
+8,1,While coding,Sometimes,Turkish,No,Male,Lebanon,30 to 39
+8,6,While coding,No,Nescafe,Sometimes,Female,Egypt,18 to 29
+8,1,While coding,Yes,Nescafe,Yes,Male,Jordan,18 to 29
+7,5,While coding,No,Nescafe,Yes,Male,Jordan,30 to 39
+6,3,Before coding,Sometimes,Nescafe,No,Male,Syria,18 to 29
+10,7,Before coding,Yes,Nescafe,Sometimes,Male,Egypt,30 to 39
+3,4,While coding,Sometimes,Nescafe,Yes,Male,Jordan,18 to 29
+6,4,While coding,No,Nescafe,Yes,Male,Syria,Under 18
+6,8,While coding,Yes,Nescafe,Sometimes,Female,Lebanon,18 to 29
+4,6,While coding,No,Nescafe,No,Male,Syria,18 to 29
+8,2,While coding,Yes,American Coffee,Yes,Male,Jordan,30 to 39
+8,2,While coding,No,Nescafe,No,Male,Egypt,30 to 39
+5,4,Before coding,No,Turkish,No,Male,Egypt,18 to 29
+9,2,Before coding,Yes,American Coffee,Sometimes,Female,Syria,18 to 29
+7,7,Before and while coding,Yes,Caffè latte,No,Male,Syria,18 to 29
+8,6,Before coding,Sometimes,Nescafe,Sometimes,Male,Egypt,18 to 29
+7,3,Before coding,Sometimes,Espresso (Short Black),No,Female,Syria,18 to 29
+3,8,All the time,Yes,American Coffee,No,Male,Jordan,18 to 29
+8,3,While coding,No,Caffè latte,No,Male,Lebanon,18 to 29
+6,8,Before coding,Sometimes,American Coffee,No,Male,Egypt,30 to 39
+7,8,Before and while coding,Yes,Double Espresso (Doppio),Sometimes,Male,Egypt,18 to 29
+5,1,While coding,Sometimes,Nescafe,Sometimes,Female,Syria,18 to 29
+4,5,Before coding,Yes,Turkish,Sometimes,Male,Egypt,18 to 29
+6,3,While coding,Yes,Turkish,No,Male,Egypt,18 to 29
+8,7,While coding,No,Nescafe,Sometimes,Male,Jordan,18 to 29
+3,6,While coding,Yes,Nescafe,Sometimes,Male,Egypt,18 to 29
+8,7,No specific time,Sometimes,Turkish,Yes,Female,Syria,18 to 29
+5,5,While coding,Sometimes,Turkish,No,Female,Egypt,30 to 39
+3,1,While coding,Sometimes,American Coffee,Yes,Female,Egypt,18 to 29
+5,6,All the time,No,Turkish,Yes,Female,Egypt,30 to 39
+9,2,While coding,Sometimes,American Coffee,No,Male,Syria,18 to 29
+10,3,While coding,No,Nescafe,Yes,Male,Jordan,18 to 29
+6,4,While coding,Yes,Espresso (Short Black),No,Male,Syria,30 to 39
+8,5,While coding,Yes,Double Espresso (Doppio),Sometimes,Male,Syria,18 to 29
+7,3,Before coding,No,Nescafe,Sometimes,Female,Egypt,18 to 29
+8,5,While coding,Yes,Turkish,Sometimes,Female,Jordan,18 to 29
+2,8,Before coding,Yes,Nescafe,No,Female,Egypt,30 to 39
+10,6,While coding,No,Nescafe,Sometimes,Female,Syria,18 to 29
+8,1,While coding,Sometimes,Turkish,Sometimes,Female,Lebanon,30 to 39
+8,4,While coding,Sometimes,American Coffee,Yes,Female,Jordan,18 to 29
+6,5,While coding,Yes,American Coffee,No,Male,Syria,18 to 29
+3,4,While coding,Yes,Caffè latte,Sometimes,Male,Egypt,18 to 29
+7,7,While coding,Sometimes,Nescafe,No,Male,Syria,18 to 29
+6,6,Before and while coding,Yes,Espresso (Short Black),Sometimes,Male,Syria,30 to 39
+7,3,While coding,Sometimes,Caffè latte,No,Female,Syria,30 to 39
+5,3,While coding,Sometimes,American Coffee,No,Male,Egypt,18 to 29
+3,3,While coding,Sometimes,Nescafe,Sometimes,Male,Egypt,18 to 29
+3,8,While coding,Sometimes,American Coffee,Sometimes,Male,Lebanon,18 to 29
+9,5,Before coding,No,Nescafe,Sometimes,Female,Jordan,18 to 29
+7,3,Before coding,Yes,American Coffee,Sometimes,Female,Egypt,40 to 49
+9,3,While coding,No,American Coffee,Yes,Male,Egypt,30 to 39
+10,1,Before coding,Yes,American Coffee,Sometimes,Female,Egypt,18 to 29
+6,7,While coding,Sometimes,Espresso (Short Black),Yes,Male,Jordan,30 to 39
+4,1,While coding,Yes,American Coffee,Yes,Male,Syria,30 to 39
+10,6,Before coding,Sometimes,Nescafe,No,Male,Lebanon,30 to 39
+8,6,Before coding,Sometimes,Nescafe,Sometimes,Male,Lebanon,30 to 39
+5,1,While coding,Sometimes,Turkish,Yes,Male,Jordan,18 to 29
+8,7,Before coding,Sometimes,Nescafe,Yes,Female,Syria,30 to 39
+3,2,Before coding,Sometimes,American Coffee,Sometimes,Female,Jordan,30 to 39
+8,3,Before coding,Sometimes,American Coffee,No,Male,Jordan,18 to 29
+10,4,In the morning,Sometimes,Americano,No,Female,Syria,18 to 29
+6,8,While coding,Yes,Caffè latte,Sometimes,Male,Lebanon,Under 18
+10,2,Before coding,Sometimes,Americano,No,Female,Syria,50 to 59
+7,6,While coding,No,Nescafe,Sometimes,Female,Syria,30 to 39
+4,3,Before coding,No,Nescafe,Yes,Male,Egypt,18 to 29
+6,1,While coding,Sometimes,Turkish,Sometimes,Male,Lebanon,40 to 49
+6,8,While coding,Sometimes,Turkish,Sometimes,Male,Egypt,30 to 39
+10,3,In the morning,Yes,American Coffee,Yes,Male,Syria,18 to 29
+4,2,While coding,Sometimes,Cappuccino,No,Male,Lebanon,18 to 29
+8,2,While coding,Sometimes,Espresso (Short Black),Sometimes,Male,Syria,18 to 29
+8,7,After coding,Yes,American Coffee,Yes,Male,Jordan,18 to 29
+6,6,While coding,No,American Coffee,Sometimes,Male,Jordan,30 to 39
+6,1,While coding,Yes,Cappuccino,Sometimes,Female,Jordan,18 to 29
+5,4,Before coding,Sometimes,Espresso (Short Black),No,Male,Egypt,30 to 39
+8,5,While coding,Sometimes,Nescafe,Yes,Male,Syria,40 to 49
+6,6,Before coding,Sometimes,American Coffee,Sometimes,Male,Egypt,18 to 29
+6,1,While coding,Sometimes,Nescafe,No,Male,Egypt,40 to 49
+5,2,While coding,Sometimes,Nescafe,No,Male,Lebanon,Under 18
+8,8,While coding,Sometimes,Nescafe,No,Male,Jordan,18 to 29
+8,6,Before coding,Sometimes,Turkish,No,Male,Jordan,30 to 39
+6,6,While coding,Yes,Nescafe,Yes,Female,Egypt,18 to 29
+4,2,While coding,Yes,Espresso (Short Black),Yes,Male,Lebanon,18 to 29
+3,7,While coding,Yes,Nescafe,Sometimes,Male,Syria,40 to 49
+10,6,While coding,No,Turkish,No,Female,Lebanon,18 to 29
+7,2,All the time,Yes,American Coffee,Yes,Male,Egypt,18 to 29
+7,5,Before coding,Sometimes,Nescafe,Sometimes,Male,Jordan,30 to 39
+4,5,While coding,Sometimes,Turkish,Yes,Female,Lebanon,18 to 29
+5,4,While coding,No,Caffè latte,Yes,Male,Lebanon,18 to 29
+5,4,While coding,Sometimes,Nescafe,Sometimes,Female,Lebanon,30 to 39
+8,3,While coding,Sometimes,American Coffee,No,Male,Lebanon,30 to 39
+8,6,While coding,Sometimes,American Coffee,Sometimes,Male,Lebanon,30 to 39
+8,4,Before coding,Sometimes,Americano,Sometimes,Male,Egypt,18 to 29
+8,3,While coding,Sometimes,Cappuccino,Yes,Male,Syria,18 to 29
+2,4,All the time,Yes,Espresso (Short Black),Yes,Male,Syria,40 to 49
+7,2,In the morning,Yes,Turkish,Sometimes,Male,Lebanon,18 to 29
+7,2,While coding,Sometimes,Nescafe,Yes,Male,Egypt,18 to 29
+4,1,While coding,Yes,Nescafe,Yes,Male,Jordan,30 to 39
+6,3,Before and while coding,Sometimes,Nescafe,Yes,Male,Jordan,18 to 29
+3,5,While coding,Yes,Turkish,Sometimes,Male,Lebanon,18 to 29
+7,3,While coding,Sometimes,Nescafe,Sometimes,Male,Egypt,30 to 39
+4,7,While coding,Yes,Turkish,Sometimes,Female,Jordan,18 to 29
+10,4,While coding,No,Turkish,No,Male,Syria,30 to 39
+10,4,While coding,Yes,Caffè latte,Sometimes,Female,Syria,30 to 39
+4,7,All the time,Yes,Cappuccino,Yes,Female,Jordan,30 to 39
+2,2,All the time,Yes,Nescafe,No,Male,Syria,18 to 29
+2,2,While coding,Sometimes,American Coffee,No,Female,Egypt,18 to 29
+5,2,While coding,Sometimes,Turkish,Yes,Male,Jordan,18 to 29
+8,3,Before coding,Yes,Cappuccino,Sometimes,Male,Jordan,18 to 29
+10,2,While coding,Yes,Turkish,Yes,Male,Syria,18 to 29
+3,2,Before and while coding,Yes,Turkish,Yes,Male,Jordan,18 to 29
+8,1,Before coding,Sometimes,Double Espresso (Doppio),Yes,Female,Jordan,18 to 29
+7,5,While coding,Sometimes,American Coffee,Yes,Female,Syria,18 to 29
+8,4,While coding,Yes,Espresso (Short Black),Yes,Male,Jordan,18 to 29
+2,5,Before and while coding,Yes,Nescafe,No,Male,Syria,30 to 39
+3,8,No specific time,Sometimes,Turkish,Sometimes,Male,Jordan,30 to 39
+10,2,Before coding,Yes,Nescafe,No,Male,Jordan,30 to 39
+6,2,Before coding,Yes,American Coffee,Yes,Male,Jordan,30 to 39
+7,8,While coding,Yes,American Coffee,No,Male,Jordan,18 to 29
+4,7,While coding,No,Cappuccino,Sometimes,Male,Egypt,18 to 29
+8,1,Before coding,No,Nescafe,No,Male,Syria,30 to 39
+8,1,While coding,Sometimes,Nescafe,Sometimes,Male,Egypt,18 to 29
+8,1,Before coding,No,Nescafe,Yes,Male,Egypt,18 to 29
+8,8,Before coding,No,Nescafe,No,Male,Jordan,18 to 29
+4,1,While coding,Yes,American Coffee,Yes,Male,Lebanon,18 to 29
+7,8,While coding,Sometimes,Espresso (Short Black),Sometimes,Male,Lebanon,18 to 29
+3,7,Before coding,Sometimes,Nescafe,No,Male,Lebanon,30 to 39
+8,8,While coding,Sometimes,American Coffee,Sometimes,Female,Egypt,18 to 29
+5,1,While coding,No,American Coffee,Sometimes,Male,Egypt,30 to 39
+7,6,In the morning,Sometimes,American Coffee,No,Male,Egypt,18 to 29
+6,3,While coding,No,American Coffee,Yes,Male,Egypt,30 to 39
+7,6,While coding,Yes,Nescafe,Sometimes,Female,Lebanon,18 to 29
+6,7,While coding,Sometimes,Cappuccino,Sometimes,Male,Syria,30 to 39
+8,3,While coding,Sometimes,Nescafe,No,Male,Jordan,30 to 39
+8,4,While coding,No,Caffè latte,No,Male,Jordan,30 to 39
+9,3,Before coding,Sometimes,Espresso (Short Black),No,Male,Syria,30 to 39
+3,2,While coding,Sometimes,Nescafe,Sometimes,Male,Egypt,30 to 39
+4,1,While coding,Yes,American Coffee,No,Male,Jordan,18 to 29
+3,3,While coding,Sometimes,Caffè latte,Sometimes,Male,Egypt,18 to 29
+2,3,While coding,Sometimes,American Coffee,Sometimes,Male,Lebanon,18 to 29
+8,4,Before coding,Sometimes,American Coffee,No,Male,Jordan,18 to 29
+3,4,Before coding,Sometimes,Nescafe,Sometimes,Male,Syria,18 to 29
+9,2,While coding,Yes,Cappuccino,Sometimes,Male,Jordan,18 to 29
+3,7,No specific time,Sometimes,Nescafe,Sometimes,Male,Egypt,30 to 39
+10,7,While coding,Yes,Turkish,Sometimes,Female,Jordan,30 to 39
+8,2,While coding,No,Caffè latte,Sometimes,Male,Syria,18 to 29
+8,6,All the time,Yes,American Coffee,Yes,Male,Syria,18 to 29
+2,7,While coding,Yes,Espresso (Short Black),No,Male,Syria,18 to 29
+6,1,Before coding,Sometimes,American Coffee,Sometimes,Male,Lebanon,18 to 29
+10,2,Before coding,Sometimes,American Coffee,Yes,Male,Jordan,30 to 39
+3,3,While coding,Yes,Nescafe,No,Male,Syria,18 to 29
+1,1,After coding,Yes,Nescafe,No,Male,Egypt,30 to 39
+6,6,While coding,Yes,Nescafe,Yes,Male,Egypt,18 to 29
+3,1,Before and while coding,Sometimes,Espresso (Short Black),Yes,Male,Egypt,18 to 29
+7,5,Before coding,Sometimes,American Coffee,Sometimes,Male,Egypt,18 to 29
+10,3,While coding,No,American Coffee,Yes,Male,Jordan,18 to 29
+9,1,While coding,Yes,Cappuccino,No,Male,Egypt,Under 18
+3,4,While coding,Sometimes,Turkish,No,Female,Syria,50 to 59
+6,5,All the time,Yes,Nescafe,Yes,Male,Egypt,40 to 49
+2,3,Before and while coding,Yes,Nescafe,Sometimes,Male,Jordan,18 to 29
+2,3,While coding,No,Espresso (Short Black),No,Male,Syria,18 to 29
+6,3,Before coding,Yes,Nescafe,Sometimes,Female,Egypt,Under 18
+3,4,Before coding,No,Turkish,Sometimes,Male,Jordan,18 to 29
+6,8,While coding,Sometimes,Nescafe,Yes,Female,Lebanon,18 to 29
+6,4,Before coding,Sometimes,Turkish,No,Male,Jordan,18 to 29
+8,6,While coding,Yes,American Coffee,No,Male,Jordan,30 to 39
+5,7,Before and while coding,Yes,Nescafe,Yes,Male,Jordan,30 to 39
+10,2,While coding,Sometimes,American Coffee,Yes,Male,Egypt,30 to 39
+3,4,While coding,Yes,Americano,Yes,Male,Syria,18 to 29
+3,5,While coding,Sometimes,Cappuccino,No,Male,Syria,18 to 29
+8,6,Before coding,Sometimes,Nescafe,Sometimes,Male,Jordan,30 to 39
+3,3,No specific time,Sometimes,Nescafe,Yes,Female,Egypt,18 to 29
+8,7,All the time,Sometimes,Cappuccino,Yes,Male,Syria,18 to 29
+7,8,Before coding,Yes,Cappuccino,No,Male,Egypt,18 to 29
+5,5,While coding,Yes,Nescafe,Sometimes,Male,Jordan,18 to 29
+9,6,While coding,No,Cappuccino,Sometimes,Female,Egypt,18 to 29
+8,1,While coding,Sometimes,American Coffee,Yes,Male,Jordan,18 to 29
+4,4,While coding,No,Cappuccino,Yes,Male,Egypt,30 to 39
+4,3,Before coding,Sometimes,American Coffee,Sometimes,Female,Syria,18 to 29
+8,8,While coding,Sometimes,Nescafe,No,Male,Syria,18 to 29
+8,6,While coding,Sometimes,Nescafe,Yes,Male,Syria,18 to 29
+10,2,Before coding,Sometimes,American Coffee,Sometimes,Male,Syria,18 to 29
+4,7,While coding,Yes,Caffè latte,Sometimes,Female,Lebanon,18 to 29
+10,6,While coding,No,Espresso (Short Black),No,Male,Jordan,18 to 29
+4,1,While coding,Yes,Nescafe,Sometimes,Male,Jordan,18 to 29
+10,1,While coding,Sometimes,American Coffee,No,Female,Egypt,18 to 29
+8,7,While coding,Yes,Nescafe,Yes,Female,Egypt,18 to 29
+6,1,Before coding,Sometimes,Nescafe,Sometimes,Male,Egypt,18 to 29
+10,4,While coding,Sometimes,American Coffee,Yes,Male,Egypt,18 to 29
+4,3,Before coding,Sometimes,Cappuccino,No,Male,Egypt,18 to 29
+10,3,Before and while coding,Sometimes,Nescafe,Sometimes,Female,Jordan,18 to 29
+3,6,While coding,Sometimes,American Coffee,Yes,Male,Jordan,30 to 39
+4,2,While coding,Sometimes,Nescafe,No,Female,Egypt,30 to 39
+6,6,Before coding,Sometimes,American Coffee,Sometimes,Male,Syria,30 to 39
+7,8,After coding,Yes,Turkish,No,Male,Syria,18 to 29
+8,3,Before and while coding,Sometimes,Nescafe,Sometimes,Male,Egypt,18 to 29
+4,8,While coding,No,Nescafe,No,Male,Jordan,18 to 29
+5,3,Before coding,No,American Coffee,Sometimes,Male,Syria,18 to 29
+8,7,While coding,No,American Coffee,Yes,Female,Jordan,18 to 29
+10,4,Before coding,Sometimes,Turkish,No,Male,Jordan,18 to 29
+10,7,Before coding,Sometimes,Nescafe,No,Male,Syria,18 to 29
+10,8,While coding,No,Americano,Sometimes,Male,Lebanon,30 to 39
+8,4,While coding,No,Turkish,Yes,Male,Egypt,18 to 29
+1,8,While coding,Sometimes,Double Espresso (Doppio),Sometimes,Male,Egypt,30 to 39
+6,8,While coding,Sometimes,American Coffee,No,Male,Syria,18 to 29
+7,2,While coding,Yes,Nescafe,No,Male,Lebanon,30 to 39
+10,6,While coding,Sometimes,Nescafe,Yes,Male,Jordan,18 to 29
+4,8,Before coding,Sometimes,Nescafe,Sometimes,Female,Egypt,30 to 39
+3,3,While coding,Sometimes,Nescafe,Sometimes,Female,Lebanon,18 to 29
+2,6,While coding,Sometimes,Espresso (Short Black),No,Male,Jordan,30 to 39
+4,8,Before coding,No,Nescafe,Sometimes,Male,Lebanon,18 to 29
+6,8,While coding,Yes,Nescafe,No,Male,Jordan,18 to 29
+3,5,While coding,Yes,Nescafe,Sometimes,Male,Jordan,30 to 39
+7,5,While coding,Sometimes,Nescafe,Sometimes,Male,Egypt,18 to 29
+10,8,Before and while coding,Sometimes,Cappuccino,Sometimes,Male,Egypt,40 to 49
+6,7,While coding,Yes,Nescafe,Yes,Female,Egypt,18 to 29
+3,6,While coding,Sometimes,Americano,Yes,Male,Jordan,40 to 49
+5,1,While coding,Sometimes,Nescafe,Yes,Male,Jordan,30 to 39
+10,7,While coding,Sometimes,American Coffee,Yes,Male,Jordan,18 to 29
+5,2,Before coding,Sometimes,Turkish,Sometimes,Female,Egypt,18 to 29
+8,5,After coding,Sometimes,Turkish,Yes,Male,Syria,30 to 39
+4,5,While coding,Yes,Cappuccino,Yes,Male,Syria,30 to 39
+6,5,Before and while coding,Sometimes,Double Espresso (Doppio),Sometimes,Male,Syria,18 to 29
+5,8,While coding,Sometimes,Turkish,Sometimes,Male,Jordan,18 to 29
+10,1,While coding,No,Nescafe,No,Male,Jordan,Under 18
+4,2,While coding,Yes,Nescafe,No,Female,Egypt,18 to 29
+2,7,All the time,Sometimes,Nescafe,No,Female,Egypt,18 to 29
+2,2,While coding,Sometimes,Nescafe,Sometimes,Male,Egypt,30 to 39
+8,1,Before coding,Sometimes,Americano,Sometimes,Male,Syria,18 to 29
+10,1,While coding,Yes,Nescafe,Sometimes,Male,Egypt,30 to 39
+10,1,While coding,Sometimes,Americano,Yes,Male,Jordan,30 to 39
+3,6,While coding,Sometimes,Nescafe,No,Male,Syria,30 to 39
+5,1,While coding,Sometimes,Caffè latte,Sometimes,Female,Jordan,18 to 29
+6,7,While coding,Yes,Turkish,Yes,Male,Syria,18 to 29
+5,5,Before coding,No,American Coffee,Sometimes,Female,Lebanon,30 to 39
+1,4,Before coding,Yes,Caffè latte,No,Male,Jordan,18 to 29
+9,2,While coding,Yes,Turkish,Sometimes,Male,Syria,30 to 39
+7,3,While coding,No,Nescafe,Sometimes,Male,Egypt,18 to 29
+10,1,While coding,No,Cappuccino,Yes,Male,Egypt,18 to 29
+5,7,While coding,Sometimes,Americano,No,Male,Egypt,Under 18
+5,4,While coding,Sometimes,Turkish,Yes,Male,Lebanon,18 to 29
+10,8,While coding,Sometimes,Caffè latte,Sometimes,Male,Syria,30 to 39
+8,7,While coding,Yes,Nescafe,Sometimes,Male,Egypt,40 to 49
+2,2,While coding,Yes,Espresso (Short Black),Sometimes,Male,Egypt,18 to 29
+3,8,While coding,No,Nescafe,Sometimes,Male,Egypt,18 to 29
+4,8,While coding,Yes,Nescafe,Sometimes,Female,Egypt,18 to 29
+9,1,While coding,No,American Coffee,Sometimes,Female,Syria,18 to 29
+10,6,Before coding,Yes,Americano,Sometimes,Female,Egypt,18 to 29
+3,6,While coding,Sometimes,Nescafe,No,Female,Jordan,18 to 29
+6,3,In the morning,Sometimes,Nescafe,Yes,Male,Syria,18 to 29
+10,4,Before coding,Yes,American Coffee,No,Female,Jordan,18 to 29
+2,2,While coding,Sometimes,Americano,Sometimes,Male,Syria,30 to 39
+10,6,Before coding,Sometimes,Turkish,Yes,Male,Syria,30 to 39
+4,5,While coding,Sometimes,Turkish,Sometimes,Male,Syria,30 to 39
+7,4,While coding,Sometimes,American Coffee,Sometimes,Male,Lebanon,30 to 39
+8,6,While coding,Sometimes,American Coffee,No,Male,Jordan,30 to 39
+6,8,While coding,Sometimes,American Coffee,Yes,Male,Lebanon,18 to 29
+5,5,All the time,Sometimes,Turkish,Yes,Male,Egypt,18 to 29
+7,2,While coding,Sometimes,Double Espresso (Doppio),Sometimes,Male,Syria,40 to 49
+10,4,While coding,No,American Coffee,Yes,Male,Syria,18 to 29
+10,1,While coding,Sometimes,Caffè latte,Sometimes,Female,Syria,18 to 29
+1,5,Before coding,No,Nescafe,No,Male,Egypt,18 to 29
+7,2,Before coding,Sometimes,Nescafe,Sometimes,Female,Jordan,18 to 29
+4,4,While coding,Sometimes,American Coffee,Yes,Male,Syria,30 to 39
+4,7,While coding,Sometimes,Nescafe,No,Male,Jordan,30 to 39
+6,4,Before coding,Yes,Nescafe,Sometimes,Male,Jordan,18 to 29
+3,2,Before coding,Sometimes,Nescafe,No,Male,Egypt,Under 18
+5,4,Before and while coding,No,Turkish,No,Male,Syria,30 to 39
+9,8,While coding,Sometimes,Nescafe,Yes,Male,Egypt,40 to 49
+7,4,Before coding,Yes,Turkish,No,Male,Lebanon,18 to 29
+6,8,While coding,Sometimes,Caffè latte,No,Female,Jordan,18 to 29
+10,6,While coding,Yes,Turkish,Sometimes,Female,Jordan,18 to 29
+8,3,All the time,Sometimes,American Coffee,Yes,Female,Lebanon,30 to 39
+7,2,While coding,No,Nescafe,Yes,Male,Jordan,30 to 39
+9,4,In the morning,Sometimes,Nescafe,Sometimes,Male,Egypt,18 to 29
+2,1,While coding,No,Espresso (Short Black),Sometimes,Male,Syria,40 to 49
+8,5,While coding,Yes,Nescafe,Yes,Female,Jordan,30 to 39
+5,8,While coding,Sometimes,Nescafe,Yes,Male,Syria,30 to 39
+7,3,While coding,Sometimes,Nescafe,No,Female,Egypt,18 to 29
+2,1,Before coding,Yes,American Coffee,Sometimes,Male,Syria,18 to 29
+5,4,While coding,No,Nescafe,Sometimes,Male,Jordan,40 to 49
+8,1,While coding,Sometimes,Espresso (Short Black),Yes,Male,Syria,30 to 39
+2,1,No specific time,Yes,American Coffee,Yes,Male,Syria,18 to 29
+7,2,While coding,Yes,Nescafe,Yes,Male,Egypt,18 to 29
+8,5,Before coding,Sometimes,Cappuccino,No,Male,Syria,40 to 49
+10,6,While coding,Yes,Turkish,Yes,Male,Egypt,18 to 29
+8,3,Before and while coding,Sometimes,Espresso (Short Black),No,Female,Jordan,18 to 29
+3,8,Before coding,Yes,Turkish,Yes,Male,Lebanon,30 to 39
+3,5,While coding,Sometimes,Nescafe,Sometimes,Male,Jordan,18 to 29
+6,8,After coding,Sometimes,American Coffee,Sometimes,Female,Lebanon,18 to 29
+10,1,After coding,Sometimes,American Coffee,Yes,Male,Jordan,30 to 39
+3,5,Before coding,Sometimes,Nescafe,Sometimes,Male,Egypt,30 to 39
+8,1,Before coding,Sometimes,American Coffee,Sometimes,Male,Egypt,18 to 29
+8,2,Before coding,Yes,Turkish,No,Male,Egypt,18 to 29
+3,2,Before coding,No,Nescafe,Yes,Female,Lebanon,18 to 29
+6,8,While coding,Sometimes,American Coffee,Yes,Female,Jordan,18 to 29
+10,2,While coding,Yes,American Coffee,No,Male,Jordan,30 to 39
+3,4,While coding,Yes,Turkish,Yes,Male,Egypt,18 to 29
+4,8,While coding,Sometimes,American Coffee,Sometimes,Male,Lebanon,18 to 29
+3,7,While coding,Sometimes,American Coffee,Yes,Female,Egypt,18 to 29
+8,4,While coding,Sometimes,Double Espresso (Doppio),Sometimes,Male,Syria,18 to 29
+8,4,In the morning,Sometimes,Espresso (Short Black),Yes,Male,Syria,18 to 29
+10,6,While coding,No,Nescafe,Yes,Male,Egypt,30 to 39
+6,4,While coding,Sometimes,Nescafe,Sometimes,Male,Jordan,18 to 29
+10,5,While coding,Yes,Nescafe,Sometimes,Male,Syria,18 to 29
+6,8,While coding,Yes,American Coffee,Sometimes,Male,Egypt,18 to 29
+8,6,While coding,Yes,Turkish,No,Male,Egypt,30 to 39
+10,1,While coding,Sometimes,Nescafe,Sometimes,Male,Egypt,18 to 29
+9,6,Before coding,Sometimes,Americano,Yes,Male,Syria,40 to 49
+5,3,While coding,Yes,Turkish,Yes,Female,Syria,18 to 29
+3,4,Before coding,Yes,Nescafe,Sometimes,Male,Egypt,18 to 29
+8,7,While coding,Yes,Double Espresso (Doppio),Sometimes,Male,Syria,30 to 39
+9,6,After coding,Sometimes,American Coffee,No,Female,Jordan,18 to 29
+5,8,While coding,Sometimes,Cappuccino,Sometimes,Male,Syria,18 to 29
+6,7,Before coding,Yes,Espresso (Short Black),Sometimes,Male,Jordan,18 to 29
+7,4,While coding,Sometimes,Nescafe,Sometimes,Female,Egypt,18 to 29
+2,8,While coding,Yes,Nescafe,Sometimes,Female,Egypt,18 to 29
+2,6,While coding,Sometimes,Turkish,Sometimes,Male,Jordan,18 to 29
+4,7,While coding,Sometimes,Turkish,No,Male,Jordan,30 to 39
+8,6,While coding,Yes,Nescafe,Sometimes,Female,Egypt,30 to 39
+10,8,While coding,No,Turkish,Sometimes,Male,Syria,18 to 29
+4,3,While coding,Yes,Turkish,Yes,Male,Jordan,18 to 29
+10,7,While coding,No,Double Espresso (Doppio),Sometimes,Male,Syria,30 to 39
+4,3,While coding,Sometimes,Caffè latte,Yes,Female,Lebanon,30 to 39
+2,1,While coding,Sometimes,Cappuccino,Sometimes,Male,Lebanon,18 to 29
+10,5,While coding,No,Turkish,No,Male,Lebanon,18 to 29
+2,5,Before coding,Yes,Nescafe,Sometimes,Female,Syria,18 to 29
+10,5,Before coding,Sometimes,Turkish,No,Female,Syria,18 to 29

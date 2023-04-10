@@ -1,0 +1,11 @@
+html{
+	cursor: url('./cursor.cur'), auto;
+	
+}
+
+#play-button{
+	position:fixed;
+	top: 0 ;
+	left ;15 px;
+	z-index:999999;
+}
