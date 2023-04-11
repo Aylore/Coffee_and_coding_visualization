@@ -6,6 +6,17 @@ html{
 #play-button{
 	position:fixed;
 	top: 0 ;
-	left ;15 px;
+	left :15px;
 	z-index:999999;
+	
+	 display: inline-block;
+
+  padding: 10px;
+  width: 100px;
+    background: rgba(0,0,0,0.5);
+
+  text-align: center;
+  border: 4px double #cccccc; /* add this line */
+  border-radius: 10px; /* add this line */
+
 }
