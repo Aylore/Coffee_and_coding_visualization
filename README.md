@@ -1,5 +1,5 @@
 # Coffee_and_coding_visualization
-![alt text](./assets/2.png)
+![alt text](./assets/10.png)
 
 ## Exploratory Data Analysis
 ### Explaining the relation between different factors in the daily life of a programmer
